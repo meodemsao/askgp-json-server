@@ -49,7 +49,7 @@
     {
       "id": 1,
       "categoryId": 1,
-      "name": "healthcare-json-server"
+      "name": "But not getting better, or worse after treatment"
     },
     {
       "id": 2,
@@ -63,22 +63,22 @@
     },
     {
       "id": 4,
-      "categoryId": 2,
+      "categoryId": 3,
       "name": "Headache"
     },
     {
       "id": 5,
-      "categoryId": 2,
+      "categoryId": 3,
       "name": "Neck pain"
     },
     {
       "id": 6,
-      "categoryId": 2,
+      "categoryId": 3,
       "name": "Giddiness"
     },
     {
       "id": 7,
-      "categoryId": 2,
+      "categoryId": 3,
       "name": "Other head/neuro symptoms"
     },
     {

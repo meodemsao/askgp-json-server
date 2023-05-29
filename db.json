@@ -1,1 +1,3056 @@
-{"categories":[{"id":1,"name":"Recently Treated by a Dr"},{"id":2,"name":"Fever or Feeling Unwell"},{"id":3,"name":"Head/Neuro"},{"id":4,"name":"Chest"},{"id":5,"name":"Abdomen/Pelvis/Genitalia"},{"id":6,"name":"Eyes"},{"id":7,"name":"Ears/Nose/Throat/Mouth"},{"id":8,"name":"Back & Limbs"},{"id":9,"name":"Skin/Wounds/Injuries"},{"id":10,"name":"Mental Health & Other Pain"},{"id":11,"name":"Other general symptoms"}],"subCategories":[{"id":1,"categoryId":1,"name":"healthcare-json-server"},{"id":2,"categoryId":2,"name":"Fever/Unwell(>5yrs old)"},{"id":3,"categoryId":2,"name":"Fever/Unwell(<5yrs old)"},{"id":4,"categoryId":2,"name":"Headache"},{"id":5,"categoryId":2,"name":"Neck pain"},{"id":6,"categoryId":2,"name":"Giddiness"},{"id":7,"categoryId":2,"name":"Other head/neuro symptoms"},{"id":8,"categoryId":2,"name":"Chest Pain or Tightness"},{"id":9,"categoryId":2,"name":"Breast"},{"id":10,"categoryId":2,"name":"Heartburn"},{"id":11,"categoryId":2,"name":"Shortness of breath"},{"id":12,"categoryId":2,"name":"Palpitations"},{"id":13,"categoryId":2,"name":"Cough"},{"id":14,"categoryId":4,"name":"Abdominal pain"},{"id":15,"categoryId":4,"name":"Nausea/vomiting"},{"id":16,"categoryId":4,"name":"Other abdominal/bowel symptoms"},{"id":17,"categoryId":4,"name":"Urinary/Bladder"},{"id":18,"categoryId":4,"name":"Incontinence of urine/bowel"},{"id":19,"categoryId":4,"name":"Male sex organs"},{"id":20,"categoryId":4,"name":"Female sex organs"},{"id":21,"categoryId":5,"name":"Abdominal pain"},{"id":22,"categoryId":5,"name":"Nausea/vomiting"},{"id":23,"categoryId":5,"name":"Other abdominal/bowel symptoms"},{"id":24,"categoryId":5,"name":"Urinary/Bladder"},{"id":25,"categoryId":5,"name":"Incontinence of urine/bowel"},{"id":26,"categoryId":5,"name":"Male sex organs"},{"id":27,"categoryId":5,"name":"Female sex organs"},{"id":28,"categoryId":6,"name":"Red/Painful Eye"},{"id":29,"categoryId":6,"name":"Other Eye Symptoms"},{"id":30,"categoryId":7,"name":"Ear/Nose/Throat/Mouth pain"},{"id":31,"categoryId":7,"name":"Neck pain"},{"id":32,"categoryId":7,"name":"Jaw pain"},{"id":33,"categoryId":7,"name":"Other Ear/Nose/Throat"},{"id":34,"categoryId":8,"name":"Back"},{"id":35,"categoryId":8,"name":"Shoulder/Upper Arm Pain"},{"id":36,"categoryId":8,"name":"Limbs(other than shoulder/upper arm pain)"},{"id":37,"categoryId":8,"name":"Limb swelling"},{"id":38,"categoryId":9,"name":"Skin"},{"id":39,"categoryId":9,"name":"Trauma/Wounds/Bleeding"},{"id":40,"categoryId":10,"name":"Mental health"},{"id":41,"categoryId":10,"name":"Other pain"},{"id":42,"categoryId":11,"name":"Other miscellaneous"}],"symptoms":[{"id":1,"subCategoryId":1,"symptom":"Unless you fulfil more urgent criteria below you should be seen","todo":"Within 2-3 days"},{"id":2,"subCategoryId":2,"symptom":">40 degrees celsius or > 104 degrees fahrenheit","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":3,"subCategoryId":2,"symptom":"Rigors (Shakes)","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":4,"subCategoryId":2,"symptom":"Jaundice (yellowing of eyes/skin)","todo":"Urgent-See a Doctor TODAY"},{"id":5,"subCategoryId":2,"symptom":"Pale clay colored stools","todo":"Urgent-See a Doctor TODAY"},{"id":6,"subCategoryId":2,"symptom":"Rash","todo":"Urgent-See a Doctor TODAY"},{"id":7,"subCategoryId":2,"symptom":"Open wound","todo":"Urgent-See a Doctor TODAY"},{"id":8,"subCategoryId":2,"symptom":"Stiff neck","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":9,"subCategoryId":2,"symptom":"Photophobia(sensitivity to light)","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":10,"subCategoryId":2,"symptom":"Joint/Limb swelling","todo":"Urgent-See a Doctor TODAY"},{"id":11,"subCategoryId":2,"symptom":"Lower limb swelling","todo":"Urgent-See a Doctor TODAY"},{"id":12,"subCategoryId":2,"symptom":"Duration > 3-5 days","todo":"Within 2-3 days"},{"id":13,"subCategoryId":2,"symptom":"Blood in urine","todo":"Urgent-See a Doctor TODAY"},{"id":14,"subCategoryId":2,"symptom":"Pain on urination","todo":"Urgent-See a Doctor TODAY"},{"id":15,"subCategoryId":2,"symptom":"Difficulty passing urine","todo":"Within 2-3 days"},{"id":16,"subCategoryId":2,"symptom":"Poor stream of urine","todo":"Within 2-3 days"},{"id":17,"subCategoryId":2,"symptom":"Abnormal vaginal bleeding","todo":"Within 2-3 days"},{"id":18,"subCategoryId":2,"symptom":"Abnormal vaginal discharge","todo":"Within 2-3 days"},{"id":19,"subCategoryId":2,"symptom":"Abnormal penile discharge","todo":"Within 2-3 days"},{"id":20,"subCategoryId":2,"symptom":"Duration < 3 days","todo":"Observe another 1-2 days"},{"id":21,"subCategoryId":3,"symptom":">38 degrees celsius or > 100.4 degrees fahrenheit in child < 3 mths","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":22,"subCategoryId":3,"symptom":">39 degrees celsius or > 102.2 degrees fahrenheit in child 3-6 mths","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":23,"subCategoryId":3,"symptom":">40 degrees celsius or > 104 degrees fahrenheit in child > 6 mths","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":24,"subCategoryId":3,"symptom":"Rigors (Shakes)","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":25,"subCategoryId":3,"symptom":"Duration > 3-5 days","todo":"Urgent-See a Doctor TODAY"},{"id":26,"subCategoryId":3,"symptom":"not responding normally to social cues","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":27,"subCategoryId":3,"symptom":"drowsy(wakes only with prolonged stimulation)","todo":"Urgent-Call Emergency Ambulance"},{"id":28,"subCategoryId":3,"symptom":"decreased activity","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":29,"subCategoryId":3,"symptom":"Heart rate > 140-160/min","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":30,"subCategoryId":3,"symptom":"Heart rate > 160/min","todo":"Urgent-Call Emergency Ambulance"},{"id":31,"subCategoryId":3,"symptom":"Flaring of nostrils, straining of neck muscles or abdominal retractions","todo":"Urgent-Call Emergency Ambulance"},{"id":32,"subCategoryId":3,"symptom":"breathing rate > 40-50/min","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":33,"subCategoryId":3,"symptom":"breathing rate > 50/min","todo":"Urgent-Call Emergency Ambulance"},{"id":34,"subCategoryId":3,"symptom":"saturations < 95%","todo":"Urgent-Call Emergency Ambulance"},{"id":35,"subCategoryId":3,"symptom":"no urine output > 6 hours","todo":"Urgent-See a Doctor TODAY within 2-3 hours"},{"id":36,"subCategoryId":3,"symptom":"Jaundice (yellowing of eyes/skin)","todo":"Urgent-See a Doctor TODAY"},{"id":37,"subCategoryId":3,"symptom":"Pale clay colored stools","todo":"Urgent-See a Doctor TODAY"},{"id":38,"subCategoryId":3,"symptom":"Rash","todo":"Urgent-See a Doctor TODAY"},{"id":39,"subCategoryId":3,"symptom":"Open wound","todo":"Urgent-See a Doctor TODAY"},{"id":40,"subCategoryId":3,"symptom":"Joint/Limb swelling","todo":"Urgent-See a Doctor TODAY"},{"id":41,"subCategoryId":3,"symptom":"Not moving limb/extremity","todo":"Urgent-See a Doctor TODAY"},{"id":42,"subCategoryId":3,"symptom":"Duration < 3 days","todo":"Observe another 1-2 days"},{"id":43,"subCategoryId":4,"symptom":"Blood Pressure < 90/60","todo":"Urgent-Call Emergency Ambulance"},{"id":44,"subCategoryId":4,"symptom":"Blood Pressure > 180/110","todo":"Urgent-See a Doctor TODAY"},{"id":45,"subCategoryId":4,"symptom":"Blood pressure > 160/100 to 180/110","todo":"Within 2-3 days"}]}
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Recently Treated by a Dr"
+    },
+    {
+      "id": 2,
+      "name": "Fever or Feeling Unwell"
+    },
+    {
+      "id": 3,
+      "name": "Head/Neuro"
+    },
+    {
+      "id": 4,
+      "name": "Chest"
+    },
+    {
+      "id": 5,
+      "name": "Abdomen/Pelvis/Genitalia"
+    },
+    {
+      "id": 6,
+      "name": "Eyes"
+    },
+    {
+      "id": 7,
+      "name": "Ears/Nose/Throat/Mouth"
+    },
+    {
+      "id": 8,
+      "name": "Back & Limbs"
+    },
+    {
+      "id": 9,
+      "name": "Skin/Wounds/Injuries"
+    },
+    {
+      "id": 10,
+      "name": "Mental Health & Other Pain"
+    },
+    {
+      "id": 11,
+      "name": "Other general symptoms"
+    }
+  ],
+  "subCategories": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "healthcare-json-server"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Fever/Unwell(>5yrs old)"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Fever/Unwell(<5yrs old)"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Headache"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "name": "Neck pain"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "name": "Giddiness"
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "name": "Other head/neuro symptoms"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "name": "Chest Pain or Tightness"
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "name": "Breast"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "Heartburn"
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "name": "Shortness of breath"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "name": "Palpitations"
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "name": "Cough"
+    },
+    {
+      "id": 14,
+      "categoryId": 4,
+      "name": "Abdominal pain"
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "name": "Nausea/vomiting"
+    },
+    {
+      "id": 16,
+      "categoryId": 4,
+      "name": "Other abdominal/bowel symptoms"
+    },
+    {
+      "id": 17,
+      "categoryId": 4,
+      "name": "Urinary/Bladder"
+    },
+    {
+      "id": 18,
+      "categoryId": 4,
+      "name": "Incontinence of urine/bowel"
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "name": "Male sex organs"
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "name": "Female sex organs"
+    },
+    {
+      "id": 21,
+      "categoryId": 5,
+      "name": "Abdominal pain"
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "name": "Nausea/vomiting"
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "name": "Other abdominal/bowel symptoms"
+    },
+    {
+      "id": 24,
+      "categoryId": 5,
+      "name": "Urinary/Bladder"
+    },
+    {
+      "id": 25,
+      "categoryId": 5,
+      "name": "Incontinence of urine/bowel"
+    },
+    {
+      "id": 26,
+      "categoryId": 5,
+      "name": "Male sex organs"
+    },
+    {
+      "id": 27,
+      "categoryId": 5,
+      "name": "Female sex organs"
+    },
+    {
+      "id": 28,
+      "categoryId": 6,
+      "name": "Red/Painful Eye"
+    },
+    {
+      "id": 29,
+      "categoryId": 6,
+      "name": "Other Eye Symptoms"
+    },
+    {
+      "id": 30,
+      "categoryId": 7,
+      "name": "Ear/Nose/Throat/Mouth pain"
+    },
+    {
+      "id": 31,
+      "categoryId": 7,
+      "name": "Neck pain"
+    },
+    {
+      "id": 32,
+      "categoryId": 7,
+      "name": "Jaw pain"
+    },
+    {
+      "id": 33,
+      "categoryId": 7,
+      "name": "Other Ear/Nose/Throat"
+    },
+    {
+      "id": 34,
+      "categoryId": 8,
+      "name": "Back"
+    },
+    {
+      "id": 35,
+      "categoryId": 8,
+      "name": "Shoulder/Upper Arm Pain"
+    },
+    {
+      "id": 36,
+      "categoryId": 8,
+      "name": "Limbs(other than shoulder/upper arm pain)"
+    },
+    {
+      "id": 37,
+      "categoryId": 8,
+      "name": "Limb swelling"
+    },
+    {
+      "id": 38,
+      "categoryId": 9,
+      "name": "Skin"
+    },
+    {
+      "id": 39,
+      "categoryId": 9,
+      "name": "Trauma/Wounds/Bleeding"
+    },
+    {
+      "id": 40,
+      "categoryId": 10,
+      "name": "Mental health"
+    },
+    {
+      "id": 41,
+      "categoryId": 10,
+      "name": "Other pain"
+    },
+    {
+      "id": 42,
+      "categoryId": 11,
+      "name": "Other miscellaneous"
+    }
+  ],
+  "symptoms": [
+    {
+      "id": 1,
+      "subCategoryId": 1,
+      "symptom": "Unless you fulfil more urgent criteria below you should be seen",
+      "todoId": 4
+    },
+    {
+      "id": 2,
+      "subCategoryId": 2,
+      "symptom": ">40 degrees celsius or > 104 degrees fahrenheit",
+      "todoId": 2
+    },
+    {
+      "id": 3,
+      "subCategoryId": 2,
+      "symptom": "Rigors (Shakes)",
+      "todoId": 2
+    },
+    {
+      "id": 4,
+      "subCategoryId": 2,
+      "symptom": "Jaundice (yellowing of eyes/skin)",
+      "todoId": 3
+    },
+    {
+      "id": 5,
+      "subCategoryId": 2,
+      "symptom": "Pale clay colored stools",
+      "todoId": 3
+    },
+    {
+      "id": 6,
+      "subCategoryId": 2,
+      "symptom": "Rash",
+      "todoId": 3
+    },
+    {
+      "id": 7,
+      "subCategoryId": 2,
+      "symptom": "Open wound",
+      "todoId": 3
+    },
+    {
+      "id": 8,
+      "subCategoryId": 2,
+      "symptom": "Stiff neck",
+      "todoId": 2
+    },
+    {
+      "id": 9,
+      "subCategoryId": 2,
+      "symptom": "Photophobia(sensitivity to light)",
+      "todoId": 2
+    },
+    {
+      "id": 10,
+      "subCategoryId": 2,
+      "symptom": "Joint/Limb swelling",
+      "todoId": 3
+    },
+    {
+      "id": 11,
+      "subCategoryId": 2,
+      "symptom": "Lower limb swelling",
+      "todoId": 3
+    },
+    {
+      "id": 12,
+      "subCategoryId": 2,
+      "symptom": "Duration > 3-5 days",
+      "todoId": 4
+    },
+    {
+      "id": 13,
+      "subCategoryId": 2,
+      "symptom": "Blood in urine",
+      "todoId": 3
+    },
+    {
+      "id": 14,
+      "subCategoryId": 2,
+      "symptom": "Pain on urination",
+      "todoId": 3
+    },
+    {
+      "id": 15,
+      "subCategoryId": 2,
+      "symptom": "Difficulty passing urine",
+      "todoId": 4
+    },
+    {
+      "id": 16,
+      "subCategoryId": 2,
+      "symptom": "Poor stream of urine",
+      "todoId": 4
+    },
+    {
+      "id": 17,
+      "subCategoryId": 2,
+      "symptom": "Abnormal vaginal bleeding",
+      "todoId": 4
+    },
+    {
+      "id": 18,
+      "subCategoryId": 2,
+      "symptom": "Abnormal vaginal discharge",
+      "todoId": 4
+    },
+    {
+      "id": 19,
+      "subCategoryId": 2,
+      "symptom": "Abnormal penile discharge",
+      "todoId": 4
+    },
+    {
+      "id": 20,
+      "subCategoryId": 2,
+      "symptom": "Duration < 3 days",
+      "todoId": 5
+    },
+    {
+      "id": 21,
+      "subCategoryId": 3,
+      "symptom": ">38 degrees celsius or > 100.4 degrees fahrenheit in child < 3 mths",
+      "todoId": 2
+    },
+    {
+      "id": 22,
+      "subCategoryId": 3,
+      "symptom": ">39 degrees celsius or > 102.2 degrees fahrenheit in child 3-6 mths",
+      "todoId": 2
+    },
+    {
+      "id": 23,
+      "subCategoryId": 3,
+      "symptom": ">40 degrees celsius or > 104 degrees fahrenheit in child > 6 mths",
+      "todoId": 2
+    },
+    {
+      "id": 24,
+      "subCategoryId": 3,
+      "symptom": "Rigors (Shakes)",
+      "todoId": 2
+    },
+    {
+      "id": 25,
+      "subCategoryId": 3,
+      "symptom": "Duration > 3-5 days",
+      "todoId": 3
+    },
+    {
+      "id": 26,
+      "subCategoryId": 3,
+      "symptom": "not responding normally to social cues",
+      "todoId": 2
+    },
+    {
+      "id": 27,
+      "subCategoryId": 3,
+      "symptom": "drowsy(wakes only with prolonged stimulation)",
+      "todoId": 1
+    },
+    {
+      "id": 28,
+      "subCategoryId": 3,
+      "symptom": "decreased activity",
+      "todoId": 2
+    },
+    {
+      "id": 29,
+      "subCategoryId": 3,
+      "symptom": "Heart rate > 140-160/min",
+      "todoId": 2
+    },
+    {
+      "id": 30,
+      "subCategoryId": 3,
+      "symptom": "Heart rate > 160/min",
+      "todoId": 1
+    },
+    {
+      "id": 31,
+      "subCategoryId": 3,
+      "symptom": "Flaring of nostrils, straining of neck muscles or abdominal retractions",
+      "todoId": 1
+    },
+    {
+      "id": 32,
+      "subCategoryId": 3,
+      "symptom": "breathing rate > 40-50/min",
+      "todoId": 2
+    },
+    {
+      "id": 33,
+      "subCategoryId": 3,
+      "symptom": "breathing rate > 50/min",
+      "todoId": 1
+    },
+    {
+      "id": 34,
+      "subCategoryId": 3,
+      "symptom": "saturations < 95%",
+      "todoId": 1
+    },
+    {
+      "id": 35,
+      "subCategoryId": 3,
+      "symptom": "no urine output > 6 hours",
+      "todoId": 2
+    },
+    {
+      "id": 36,
+      "subCategoryId": 3,
+      "symptom": "Jaundice (yellowing of eyes/skin)",
+      "todoId": 3
+    },
+    {
+      "id": 37,
+      "subCategoryId": 3,
+      "symptom": "Pale clay colored stools",
+      "todoId": 3
+    },
+    {
+      "id": 38,
+      "subCategoryId": 3,
+      "symptom": "Rash",
+      "todoId": 3
+    },
+    {
+      "id": 39,
+      "subCategoryId": 3,
+      "symptom": "Open wound",
+      "todoId": 3
+    },
+    {
+      "id": 40,
+      "subCategoryId": 3,
+      "symptom": "Joint/Limb swelling",
+      "todoId": 3
+    },
+    {
+      "id": 41,
+      "subCategoryId": 3,
+      "symptom": "Not moving limb/extremity",
+      "todoId": 3
+    },
+    {
+      "id": 42,
+      "subCategoryId": 3,
+      "symptom": "Duration < 3 days",
+      "todoId": 5
+    },
+    {
+      "id": 43,
+      "subCategoryId": 4,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 44,
+      "subCategoryId": 4,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 45,
+      "subCategoryId": 4,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 46,
+      "subCategoryId": 4,
+      "symptom": "Sudden onset (like a thunderclap)",
+      "todoId": 2
+    },
+    {
+      "id": 47,
+      "subCategoryId": 4,
+      "symptom": "Recent trauma in the preceding few weeks",
+      "todoId": 3
+    },
+    {
+      "id": 48,
+      "subCategoryId": 4,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 2
+    },
+    {
+      "id": 49,
+      "subCategoryId": 4,
+      "symptom": "Stiff neck",
+      "todoId": 2
+    },
+    {
+      "id": 50,
+      "subCategoryId": 4,
+      "symptom": "Photophobia(sensitivity to light)",
+      "todoId": 2
+    },
+    {
+      "id": 51,
+      "subCategoryId": 4,
+      "symptom": "Vomiting",
+      "todoId": 3
+    },
+    {
+      "id": 52,
+      "subCategoryId": 4,
+      "symptom": "Pain on chewing",
+      "todoId": 3
+    },
+    {
+      "id": 53,
+      "subCategoryId": 4,
+      "symptom": "Scalp tenderness",
+      "todoId": 3
+    },
+    {
+      "id": 54,
+      "subCategoryId": 4,
+      "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 55,
+      "subCategoryId": 4,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 56,
+      "subCategoryId": 4,
+      "symptom": "Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 7
+    },
+    {
+      "id": 57,
+      "subCategoryId": 5,
+      "symptom": "Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 58,
+      "subCategoryId": 5,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 59,
+      "subCategoryId": 5,
+      "symptom": "Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 60,
+      "subCategoryId": 5,
+      "symptom": "Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 61,
+      "subCategoryId": 5,
+      "symptom": "Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 62,
+      "subCategoryId": 5,
+      "symptom": "Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 63,
+      "subCategoryId": 5,
+      "symptom": "Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 64,
+      "subCategoryId": 5,
+      "symptom": "Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 65,
+      "subCategoryId": 5,
+      "symptom": "Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 66,
+      "subCategoryId": 5,
+      "symptom": "Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 67,
+      "subCategoryId": 5,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 68,
+      "subCategoryId": 5,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 69,
+      "subCategoryId": 5,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 70,
+      "subCategoryId": 5,
+      "symptom": "Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 71,
+      "subCategoryId": 5,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 72,
+      "subCategoryId": 6,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 73,
+      "subCategoryId": 6,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 74,
+      "subCategoryId": 6,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 75,
+      "subCategoryId": 6,
+      "symptom": "Persistent(Not relieved by rest of staying still)",
+      "todoId": 2
+    },
+    {
+      "id": 76,
+      "subCategoryId": 6,
+      "symptom": "On standing upright from seated or lying position",
+      "todoId": 2
+    },
+    {
+      "id": 77,
+      "subCategoryId": 6,
+      "symptom": "Sweating",
+      "todoId": 1
+    },
+    {
+      "id": 78,
+      "subCategoryId": 6,
+      "symptom": "Palpitations",
+      "todoId": 1
+    },
+    {
+      "id": 79,
+      "subCategoryId": 6,
+      "symptom": "Tremors",
+      "todoId": 1
+    },
+    {
+      "id": 80,
+      "subCategoryId": 6,
+      "symptom": "Vision going dark",
+      "todoId": 1
+    },
+    {
+      "id": 81,
+      "subCategoryId": 6,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 82,
+      "subCategoryId": 6,
+      "symptom": "Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 83,
+      "subCategoryId": 6,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 84,
+      "subCategoryId": 7,
+      "symptom": "Loss of Consciousness",
+      "todoId": 1
+    },
+    {
+      "id": 85,
+      "subCategoryId": 7,
+      "symptom": "Drowsiness",
+      "todoId": 1
+    },
+    {
+      "id": 86,
+      "subCategoryId": 7,
+      "symptom": "Acute Confusion",
+      "todoId": 1
+    },
+    {
+      "id": 87,
+      "subCategoryId": 7,
+      "symptom": "Seizure (suspected or confirmed)",
+      "todoId": 1
+    },
+    {
+      "id": 88,
+      "subCategoryId": 7,
+      "symptom": "Slurring of speech",
+      "todoId": 2
+    },
+    {
+      "id": 89,
+      "subCategoryId": 7,
+      "symptom": "Facial drooping",
+      "todoId": 2
+    },
+    {
+      "id": 90,
+      "subCategoryId": 7,
+      "symptom": "One-sided numbness or weakness",
+      "todoId": 2
+    },
+    {
+      "id": 91,
+      "subCategoryId": 7,
+      "symptom": "Suspected seizure with no loss of consciousness",
+      "todoId": 4
+    },
+    {
+      "id": 92,
+      "subCategoryId": 7,
+      "symptom": "Stiff neck",
+      "todoId": 4
+    },
+    {
+      "id": 93,
+      "subCategoryId": 7,
+      "symptom": "Photophobia (sensitivity to light)",
+      "todoId": 4
+    },
+    {
+      "id": 94,
+      "subCategoryId": 7,
+      "symptom": "Tremors, shakes",
+      "todoId": 4
+    },
+    {
+      "id": 95,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 96,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 97,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 98,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 99,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 100,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 101,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 102,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 103,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 104,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 105,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 106,
+      "subCategoryId": 8,
+      "symptom": "Chest pain or chest tightness - Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 107,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 108,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 109,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 110,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 111,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 112,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 113,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 114,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 115,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 116,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 117,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 118,
+      "subCategoryId": 9,
+      "symptom": "Breast pain - Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 119,
+      "subCategoryId": 9,
+      "symptom": "Breast lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 120,
+      "subCategoryId": 9,
+      "symptom": "Nipple discharge in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 121,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 122,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 123,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 124,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 125,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 126,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 127,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 128,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 129,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 130,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 131,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 132,
+      "subCategoryId": 10,
+      "symptom": "Heartburn - Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 133,
+      "subCategoryId": 11,
+      "symptom": "Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 134,
+      "subCategoryId": 11,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 135,
+      "subCategoryId": 11,
+      "symptom": "Even at rest",
+      "todoId": 2
+    },
+    {
+      "id": 136,
+      "subCategoryId": 11,
+      "symptom": "Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 137,
+      "subCategoryId": 11,
+      "symptom": "Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 138,
+      "subCategoryId": 11,
+      "symptom": "Saturations < 92%(adult) or < 95% (children)",
+      "todoId": 1
+    },
+    {
+      "id": 139,
+      "subCategoryId": 11,
+      "symptom": "Respiratory rate > 30-35/minute in adults, > 40-50/minute in children < 5yrs old",
+      "todoId": 2
+    },
+    {
+      "id": 140,
+      "subCategoryId": 11,
+      "symptom": "Respiratory rate > 35/minute in adults, > 50/minute in children < 5yrs old",
+      "todoId": 1
+    },
+    {
+      "id": 141,
+      "subCategoryId": 11,
+      "symptom": "Flaring of nostrils, straining of neck muscles or abdominal retractions",
+      "todoId": 1
+    },
+    {
+      "id": 142,
+      "subCategoryId": 11,
+      "symptom": "Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 143,
+      "subCategoryId": 11,
+      "symptom": "Duration < 10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 144,
+      "subCategoryId": 11,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 145,
+      "subCategoryId": 12,
+      "symptom": "Heart rate >120-160/minute for > 5 yr olds",
+      "todoId": 2
+    },
+    {
+      "id": 146,
+      "subCategoryId": 12,
+      "symptom": "Heart rate >140-160/minute for children < 5 yrs old",
+      "todoId": 2
+    },
+    {
+      "id": 147,
+      "subCategoryId": 12,
+      "symptom": "Heart rate >160/minute",
+      "todoId": 1
+    },
+    {
+      "id": 148,
+      "subCategoryId": 12,
+      "symptom": "Heart rate 30-50/minute",
+      "todoId": 2
+    },
+    {
+      "id": 149,
+      "subCategoryId": 12,
+      "symptom": "Heart rate <30/minute",
+      "todoId": 1
+    },
+    {
+      "id": 150,
+      "subCategoryId": 12,
+      "symptom": "Irregular rhythm",
+      "todoId": 3
+    },
+    {
+      "id": 151,
+      "subCategoryId": 12,
+      "symptom": "Heart rate between 100 to 120/minute",
+      "todoId": 4
+    },
+    {
+      "id": 152,
+      "subCategoryId": 12,
+      "symptom": "Heart rate between 50 to 60/minute",
+      "todoId": 4
+    },
+    {
+      "id": 153,
+      "subCategoryId": 12,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 154,
+      "subCategoryId": 12,
+      "symptom": "Heart rate between 60 to 100/minute",
+      "todoId": 7
+    },
+    {
+      "id": 155,
+      "subCategoryId": 13,
+      "symptom": "Blood in sputum - large amounts",
+      "todoId": 2
+    },
+    {
+      "id": 156,
+      "subCategoryId": 13,
+      "symptom": "Blood in sputum - small amounts",
+      "todoId": 4
+    },
+    {
+      "id": 157,
+      "subCategoryId": 13,
+      "symptom": "Cough",
+      "todoId": 8
+    },
+    {
+      "id": 158,
+      "subCategoryId": 14,
+      "symptom": "Continuous pain & duration > 30 minutes",
+      "todoId": 2
+    },
+    {
+      "id": 159,
+      "subCategoryId": 14,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 2
+    },
+    {
+      "id": 160,
+      "subCategoryId": 14,
+      "symptom": "Gets worse with movement/coughing",
+      "todoId": 2
+    },
+    {
+      "id": 161,
+      "subCategoryId": 14,
+      "symptom": "Fever & Jaundice",
+      "todoId": 2
+    },
+    {
+      "id": 162,
+      "subCategoryId": 14,
+      "symptom": "Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 163,
+      "subCategoryId": 14,
+      "symptom": "Duration < 30 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 164,
+      "subCategoryId": 14,
+      "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 165,
+      "subCategoryId": 14,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 166,
+      "subCategoryId": 14,
+      "symptom": "Jaundice (yellowing of eyes/skin)",
+      "todoId": 4
+    },
+    {
+      "id": 167,
+      "subCategoryId": 15,
+      "symptom": "Coffee grounds vomitus",
+      "todoId": 2
+    },
+    {
+      "id": 168,
+      "subCategoryId": 15,
+      "symptom": "Fresh blood (large amounts, not drops/stains)",
+      "todoId": 2
+    },
+    {
+      "id": 169,
+      "subCategoryId": 15,
+      "symptom": "Unable to retain fluids",
+      "todoId": 3
+    },
+    {
+      "id": 170,
+      "subCategoryId": 15,
+      "symptom": "Blood stains (small amounts)",
+      "todoId": 4
+    },
+    {
+      "id": 171,
+      "subCategoryId": 15,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 172,
+      "subCategoryId": 15,
+      "symptom": "Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 173,
+      "subCategoryId": 15,
+      "symptom": "Duration < 3-5 days & able to retain fluids, not dehydrated",
+      "todoId": 5
+    },
+    {
+      "id": 174,
+      "subCategoryId": 15,
+      "symptom": "Nausea no vomiting",
+      "todoId": 7
+    },
+    {
+      "id": 175,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Large amounts fresh red blood",
+      "todoId": 2
+    },
+    {
+      "id": 176,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Black tarry stools",
+      "todoId": 2
+    },
+    {
+      "id": 177,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Blood stains (small amounts)",
+      "todoId": 4
+    },
+    {
+      "id": 178,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Diarrhea > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 179,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - No stools > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 180,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Change from usual habits",
+      "todoId": 7
+    },
+    {
+      "id": 181,
+      "subCategoryId": 16,
+      "symptom": "Abnormal stools - Mucus in stools",
+      "todoId": 7
+    },
+    {
+      "id": 182,
+      "subCategoryId": 16,
+      "symptom": "No stools > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 183,
+      "subCategoryId": 16,
+      "symptom": "Bloating",
+      "todoId": 7
+    },
+    {
+      "id": 184,
+      "subCategoryId": 16,
+      "symptom": "Abdominal distension in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 185,
+      "subCategoryId": 17,
+      "symptom": "No urination > 12 hours",
+      "todoId": 7
+    },
+    {
+      "id": 186,
+      "subCategoryId": 17,
+      "symptom": "Blood in urine",
+      "todoId": 4
+    },
+    {
+      "id": 187,
+      "subCategoryId": 17,
+      "symptom": "Pain on urination",
+      "todoId": 6
+    },
+    {
+      "id": 188,
+      "subCategoryId": 17,
+      "symptom": "Urgency of urination",
+      "todoId": 6
+    },
+    {
+      "id": 189,
+      "subCategoryId": 17,
+      "symptom": "Frequency of urination",
+      "todoId": 6
+    },
+    {
+      "id": 190,
+      "subCategoryId": 17,
+      "symptom": "Difficulty passing urine",
+      "todoId": 7
+    },
+    {
+      "id": 191,
+      "subCategoryId": 17,
+      "symptom": "Poor stream of urine",
+      "todoId": 7
+    },
+    {
+      "id": 192,
+      "subCategoryId": 17,
+      "symptom": "Getting up to pass urine at night",
+      "todoId": 7
+    },
+    {
+      "id": 193,
+      "subCategoryId": 17,
+      "symptom": "Increased volume of urine",
+      "todoId": 7
+    },
+    {
+      "id": 194,
+      "subCategoryId": 18,
+      "symptom": "New or sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 195,
+      "subCategoryId": 18,
+      "symptom": "Weakness in lower limbs",
+      "todoId": 3
+    },
+    {
+      "id": 196,
+      "subCategoryId": 18,
+      "symptom": "Numbness in perineal/perianal region",
+      "todoId": 3
+    },
+    {
+      "id": 197,
+      "subCategoryId": 18,
+      "symptom": "Not new or sudden onset",
+      "todoId": 7
+    },
+    {
+      "id": 198,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Constant pain & Duration > 15 minutes",
+      "todoId": 2
+    },
+    {
+      "id": 199,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Severity >5/10 or severe enough to affect one from performing usual activities",
+      "todoId": 2
+    },
+    {
+      "id": 200,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Nausea no vomiting",
+      "todoId": 2
+    },
+    {
+      "id": 201,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Vomiting",
+      "todoId": 2
+    },
+    {
+      "id": 202,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Gets worse with movement/coughing",
+      "todoId": 2
+    },
+    {
+      "id": 203,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 204,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 205,
+      "subCategoryId": 19,
+      "symptom": "Testicular pain - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 206,
+      "subCategoryId": 19,
+      "symptom": "Testicular lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 207,
+      "subCategoryId": 19,
+      "symptom": "Groin lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 208,
+      "subCategoryId": 19,
+      "symptom": "Genital Ulcers",
+      "todoId": 4
+    },
+    {
+      "id": 209,
+      "subCategoryId": 19,
+      "symptom": "Erectile dysfunction",
+      "todoId": 7
+    },
+    {
+      "id": 210,
+      "subCategoryId": 19,
+      "symptom": "Loss of libido",
+      "todoId": 7
+    },
+    {
+      "id": 211,
+      "subCategoryId": 19,
+      "symptom": "Premature ejaculation",
+      "todoId": 7
+    },
+    {
+      "id": 212,
+      "subCategoryId": 19,
+      "symptom": "Blood in semen",
+      "todoId": 7
+    },
+    {
+      "id": 213,
+      "subCategoryId": 19,
+      "symptom": "Abnormal penile discharge",
+      "todoId": 9
+    },
+    {
+      "id": 214,
+      "subCategoryId": 20,
+      "symptom": "Abnormal vaginal bleeding - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 215,
+      "subCategoryId": 20,
+      "symptom": "Abnormal vaginal bleeding - Large amounts",
+      "todoId": 2
+    },
+    {
+      "id": 216,
+      "subCategoryId": 20,
+      "symptom": "Abnormal vaginal bleeding - Small amounts",
+      "todoId": 9
+    },
+    {
+      "id": 217,
+      "subCategoryId": 20,
+      "symptom": "Abnormal vaginal discharge - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 218,
+      "subCategoryId": 20,
+      "symptom": "Abnormal vaginal discharge - No fever or pain",
+      "todoId": 9
+    },
+    {
+      "id": 219,
+      "subCategoryId": 20,
+      "symptom": "Genital Ulcers - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 220,
+      "subCategoryId": 20,
+      "symptom": "Genital Ulcers",
+      "todoId": 4
+    },
+    {
+      "id": 221,
+      "subCategoryId": 20,
+      "symptom": "Loss of libido",
+      "todoId": 7
+    },
+    {
+      "id": 222,
+      "subCategoryId": 20,
+      "symptom": "Pain on intercourse",
+      "todoId": 7
+    },
+    {
+      "id": 223,
+      "subCategoryId": 21,
+      "symptom": "Continuous pain & duration > 30 minutes",
+      "todoId": 2
+    },
+    {
+      "id": 224,
+      "subCategoryId": 21,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 2
+    },
+    {
+      "id": 225,
+      "subCategoryId": 21,
+      "symptom": "Gets worse with movement/coughing",
+      "todoId": 2
+    },
+    {
+      "id": 226,
+      "subCategoryId": 21,
+      "symptom": "Fever & Jaundice",
+      "todoId": 2
+    },
+    {
+      "id": 227,
+      "subCategoryId": 21,
+      "symptom": "Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 228,
+      "subCategoryId": 21,
+      "symptom": "Duration < 30 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 229,
+      "subCategoryId": 21,
+      "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 230,
+      "subCategoryId": 21,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 231,
+      "subCategoryId": 21,
+      "symptom": "Jaundice (yellowing of eyes/skin)",
+      "todoId": 4
+    },
+    {
+      "id": 232,
+      "subCategoryId": 22,
+      "symptom": "Coffee grounds vomitus",
+      "todoId": 2
+    },
+    {
+      "id": 233,
+      "subCategoryId": 22,
+      "symptom": "Fresh blood (large amounts, not drops/stains)",
+      "todoId": 2
+    },
+    {
+      "id": 234,
+      "subCategoryId": 22,
+      "symptom": "Unable to retain fluids",
+      "todoId": 3
+    },
+    {
+      "id": 235,
+      "subCategoryId": 22,
+      "symptom": "Blood stains (small amounts)",
+      "todoId": 4
+    },
+    {
+      "id": 236,
+      "subCategoryId": 22,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 237,
+      "subCategoryId": 22,
+      "symptom": "Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 238,
+      "subCategoryId": 22,
+      "symptom": "Duration < 3-5 days & able to retain fluids, not dehydrated",
+      "todoId": 5
+    },
+    {
+      "id": 239,
+      "subCategoryId": 22,
+      "symptom": "Nausea no vomiting",
+      "todoId": 7
+    },
+    {
+      "id": 240,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Large amounts fresh red blood",
+      "todoId": 2
+    },
+    {
+      "id": 241,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Black tarry stools",
+      "todoId": 2
+    },
+    {
+      "id": 242,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Blood stains (small amounts)",
+      "todoId": 4
+    },
+    {
+      "id": 243,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Diarrhea > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 244,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - No stools > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 245,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Change from usual habits",
+      "todoId": 7
+    },
+    {
+      "id": 246,
+      "subCategoryId": 23,
+      "symptom": "Abnormal stools - Mucus in stools",
+      "todoId": 7
+    },
+    {
+      "id": 247,
+      "subCategoryId": 23,
+      "symptom": "No stools > 5 days",
+      "todoId": 4
+    },
+    {
+      "id": 248,
+      "subCategoryId": 23,
+      "symptom": "Bloating",
+      "todoId": 7
+    },
+    {
+      "id": 249,
+      "subCategoryId": 23,
+      "symptom": "Abdominal distension in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 250,
+      "subCategoryId": 24,
+      "symptom": "No urination > 12 hours",
+      "todoId": 3
+    },
+    {
+      "id": 251,
+      "subCategoryId": 24,
+      "symptom": "Blood in urine",
+      "todoId": 4
+    },
+    {
+      "id": 252,
+      "subCategoryId": 24,
+      "symptom": "Pain on urination",
+      "todoId": 6
+    },
+    {
+      "id": 253,
+      "subCategoryId": 24,
+      "symptom": "Urgency of urination",
+      "todoId": 6
+    },
+    {
+      "id": 254,
+      "subCategoryId": 24,
+      "symptom": "Frequency of urination",
+      "todoId": 6
+    },
+    {
+      "id": 255,
+      "subCategoryId": 24,
+      "symptom": "Difficulty passing urine",
+      "todoId": 7
+    },
+    {
+      "id": 256,
+      "subCategoryId": 24,
+      "symptom": "Poor stream of urine",
+      "todoId": 7
+    },
+    {
+      "id": 257,
+      "subCategoryId": 24,
+      "symptom": "Getting up to pass urine at night",
+      "todoId": 7
+    },
+    {
+      "id": 258,
+      "subCategoryId": 24,
+      "symptom": "Increased volume of urine",
+      "todoId": 7
+    },
+    {
+      "id": 259,
+      "subCategoryId": 25,
+      "symptom": "New or sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 260,
+      "subCategoryId": 25,
+      "symptom": "Weakness in lower limbs",
+      "todoId": 3
+    },
+    {
+      "id": 261,
+      "subCategoryId": 25,
+      "symptom": "Numbness in perineal/perianal region",
+      "todoId": 3
+    },
+    {
+      "id": 262,
+      "subCategoryId": 25,
+      "symptom": "Not new or sudden onset",
+      "todoId": 7
+    },
+    {
+      "id": 263,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Constant pain & Duration > 15 minutes",
+      "todoId": 2
+    },
+    {
+      "id": 264,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Severity >5/10 or severe enough to affect one from performing usual activities",
+      "todoId": 2
+    },
+    {
+      "id": 265,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Nausea no vomiting",
+      "todoId": 2
+    },
+    {
+      "id": 266,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Vomiting",
+      "todoId": 2
+    },
+    {
+      "id": 267,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Gets worse with movement/coughing",
+      "todoId": 2
+    },
+    {
+      "id": 268,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 269,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 270,
+      "subCategoryId": 26,
+      "symptom": "Testicular pain - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 271,
+      "subCategoryId": 26,
+      "symptom": "Testicular lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 272,
+      "subCategoryId": 26,
+      "symptom": "Groin lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 273,
+      "subCategoryId": 26,
+      "symptom": "Genital Ulcers",
+      "todoId": 4
+    },
+    {
+      "id": 274,
+      "subCategoryId": 26,
+      "symptom": "Erectile dysfunction",
+      "todoId": 7
+    },
+    {
+      "id": 275,
+      "subCategoryId": 26,
+      "symptom": "Loss of libido",
+      "todoId": 7
+    },
+    {
+      "id": 276,
+      "subCategoryId": 26,
+      "symptom": "Premature ejaculation",
+      "todoId": 7
+    },
+    {
+      "id": 277,
+      "subCategoryId": 26,
+      "symptom": "Blood in semen",
+      "todoId": 7
+    },
+    {
+      "id": 278,
+      "subCategoryId": 26,
+      "symptom": "Abnormal penile discharge",
+      "todoId": 9
+    },
+    {
+      "id": 279,
+      "subCategoryId": 27,
+      "symptom": "Abnormal vaginal bleeding - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 280,
+      "subCategoryId": 27,
+      "symptom": "Abnormal vaginal bleeding - Large amounts",
+      "todoId": 2
+    },
+    {
+      "id": 281,
+      "subCategoryId": 27,
+      "symptom": "Abnormal vaginal bleeding - Small amounts",
+      "todoId": 9
+    },
+    {
+      "id": 282,
+      "subCategoryId": 27,
+      "symptom": "Abnormal vaginal discharge - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 283,
+      "subCategoryId": 27,
+      "symptom": "Abnormal vaginal discharge - No fever or pain",
+      "todoId": 9
+    },
+    {
+      "id": 284,
+      "subCategoryId": 27,
+      "symptom": "Genital Ulcers - Pregnant",
+      "todoId": 3
+    },
+    {
+      "id": 285,
+      "subCategoryId": 27,
+      "symptom": "Genital Ulcers",
+      "todoId": 4
+    },
+    {
+      "id": 286,
+      "subCategoryId": 27,
+      "symptom": "Loss of libido",
+      "todoId": 7
+    },
+    {
+      "id": 287,
+      "subCategoryId": 27,
+      "symptom": "Pain on intercourse",
+      "todoId": 7
+    },
+    {
+      "id": 288,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Contact Lens User",
+      "todoId": 3
+    },
+    {
+      "id": 289,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Headache",
+      "todoId": 3
+    },
+    {
+      "id": 290,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Nausea",
+      "todoId": 3
+    },
+    {
+      "id": 291,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Vomiting",
+      "todoId": 3
+    },
+    {
+      "id": 292,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - One-sided only",
+      "todoId": 4
+    },
+    {
+      "id": 293,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 294,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 295,
+      "subCategoryId": 28,
+      "symptom": "Red Eye - Both sides & Duration < 3-5 days",
+      "todoId": 5
+    },
+    {
+      "id": 296,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Contact Lens User",
+      "todoId": 3
+    },
+    {
+      "id": 297,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Headache",
+      "todoId": 3
+    },
+    {
+      "id": 298,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Nausea",
+      "todoId": 3
+    },
+    {
+      "id": 299,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Vomiting",
+      "todoId": 3
+    },
+    {
+      "id": 300,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 301,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 302,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - One-sided only",
+      "todoId": 4
+    },
+    {
+      "id": 303,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 304,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 305,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Both sides & Duration < 3-5 days",
+      "todoId": 5
+    },
+    {
+      "id": 306,
+      "subCategoryId": 28,
+      "symptom": "Eye pain - Both sides & Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 5
+    },
+    {
+      "id": 307,
+      "subCategoryId": 29,
+      "symptom": "Double vision",
+      "todoId": 2
+    },
+    {
+      "id": 308,
+      "subCategoryId": 29,
+      "symptom": "Any acute or recent loss of vision",
+      "todoId": 2
+    },
+    {
+      "id": 309,
+      "subCategoryId": 29,
+      "symptom": "Any recent trauma/injury to the eye",
+      "todoId": 3
+    },
+    {
+      "id": 310,
+      "subCategoryId": 29,
+      "symptom": "Significant eye swelling",
+      "todoId": 3
+    },
+    {
+      "id": 311,
+      "subCategoryId": 29,
+      "symptom": "Eye discharge - Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 312,
+      "subCategoryId": 29,
+      "symptom": "Eye discharge - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 313,
+      "subCategoryId": 29,
+      "symptom": "Eye discharge - Duration < 3-5 days",
+      "todoId": 5
+    },
+    {
+      "id": 314,
+      "subCategoryId": 29,
+      "symptom": "Floaters or flashes in vision - New or sudden onset",
+      "todoId": 4
+    },
+    {
+      "id": 315,
+      "subCategoryId": 29,
+      "symptom": "Floaters or flashes in vision - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 316,
+      "subCategoryId": 29,
+      "symptom": "Floaters or flashes in vision - Not new or sudden onset and not getting worse",
+      "todoId": 7
+    },
+    {
+      "id": 317,
+      "subCategoryId": 29,
+      "symptom": "Change in visual acuity with no loss of vision",
+      "todoId": 7
+    },
+    {
+      "id": 318,
+      "subCategoryId": 29,
+      "symptom": "Eyelid lumps or bumps only with no significant eye swelling",
+      "todoId": 7
+    },
+    {
+      "id": 319,
+      "subCategoryId": 29,
+      "symptom": "Jaundice (yellowing of eyes/skin)",
+      "todoId": 7
+    },
+    {
+      "id": 320,
+      "subCategoryId": 30,
+      "symptom": "Nose/Throat/Mouth pain - Severity >8/10 or severe enough to prevent one from eating/drinking",
+      "todoId": 3
+    },
+    {
+      "id": 321,
+      "subCategoryId": 30,
+      "symptom": "Nose/Throat/Mouth pain - Severity>5/10 to 7/10 or severe enough to cause significant discomfort eating/drinking",
+      "todoId": 4
+    },
+    {
+      "id": 322,
+      "subCategoryId": 30,
+      "symptom": "Nose/Throat/Mouth pain - Duration > 1 week",
+      "todoId": 4
+    },
+    {
+      "id": 323,
+      "subCategoryId": 30,
+      "symptom": "Nose/Throat/Mouth pain - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 324,
+      "subCategoryId": 30,
+      "symptom": "Nose/Throat/Mouth pain - Duration < 3-5 days",
+      "todoId": 5
+    },
+    {
+      "id": 325,
+      "subCategoryId": 30,
+      "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 326,
+      "subCategoryId": 30,
+      "symptom": "Ear pain - Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 327,
+      "subCategoryId": 30,
+      "symptom": "Ear pain - Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 328,
+      "subCategoryId": 30,
+      "symptom": "Ear pain - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 329,
+      "subCategoryId": 30,
+      "symptom": "Ear pain - Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 7
+    },
+    {
+      "id": 330,
+      "subCategoryId": 30,
+      "symptom": "Significant ear swelling",
+      "todoId": 3
+    },
+    {
+      "id": 331,
+      "subCategoryId": 30,
+      "symptom": "Ear discharge in the absence of pain or fever",
+      "todoId": 7
+    },
+    {
+      "id": 332,
+      "subCategoryId": 31,
+      "symptom": "Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 333,
+      "subCategoryId": 31,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 334,
+      "subCategoryId": 31,
+      "symptom": "Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 335,
+      "subCategoryId": 31,
+      "symptom": "Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 336,
+      "subCategoryId": 31,
+      "symptom": "Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 337,
+      "subCategoryId": 31,
+      "symptom": "Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 338,
+      "subCategoryId": 31,
+      "symptom": "Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 339,
+      "subCategoryId": 31,
+      "symptom": "Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 340,
+      "subCategoryId": 31,
+      "symptom": "Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 341,
+      "subCategoryId": 31,
+      "symptom": "Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 342,
+      "subCategoryId": 31,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 343,
+      "subCategoryId": 31,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 344,
+      "subCategoryId": 31,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 345,
+      "subCategoryId": 31,
+      "symptom": "Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 346,
+      "subCategoryId": 31,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 347,
+      "subCategoryId": 32,
+      "symptom": "Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 348,
+      "subCategoryId": 32,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 349,
+      "subCategoryId": 32,
+      "symptom": "Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 350,
+      "subCategoryId": 32,
+      "symptom": "Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 351,
+      "subCategoryId": 32,
+      "symptom": "Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 352,
+      "subCategoryId": 32,
+      "symptom": "Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 353,
+      "subCategoryId": 32,
+      "symptom": "Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 354,
+      "subCategoryId": 32,
+      "symptom": "Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 355,
+      "subCategoryId": 32,
+      "symptom": "Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 356,
+      "subCategoryId": 32,
+      "symptom": "Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 357,
+      "subCategoryId": 32,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 358,
+      "subCategoryId": 32,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 359,
+      "subCategoryId": 32,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 360,
+      "subCategoryId": 32,
+      "symptom": "Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 361,
+      "subCategoryId": 32,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 362,
+      "subCategoryId": 33,
+      "symptom": "Significant ear swelling",
+      "todoId": 3
+    },
+    {
+      "id": 363,
+      "subCategoryId": 33,
+      "symptom": "Hearing loss - Sudden or recent onset within 1-3 weeks",
+      "todoId": 4
+    },
+    {
+      "id": 364,
+      "subCategoryId": 33,
+      "symptom": "Hearing loss - Onset > months ago",
+      "todoId": 7
+    },
+    {
+      "id": 365,
+      "subCategoryId": 33,
+      "symptom": "Tinnitus or ringing/whooshing sounds in ear - Sudden or recent onset within 1-3 weeks",
+      "todoId": 4
+    },
+    {
+      "id": 366,
+      "subCategoryId": 33,
+      "symptom": "Tinnitus or ringing/whooshing sounds in ear - Onset > months ago",
+      "todoId": 7
+    },
+    {
+      "id": 367,
+      "subCategoryId": 33,
+      "symptom": "Ear discharge in the absence of pain or fever",
+      "todoId": 7
+    },
+    {
+      "id": 368,
+      "subCategoryId": 33,
+      "symptom": "Runny nose or blocked nose in the absence of pain or fever",
+      "todoId": 8
+    },
+    {
+      "id": 369,
+      "subCategoryId": 33,
+      "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 370,
+      "subCategoryId": 33,
+      "symptom": "Neck swelling or lump in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 371,
+      "subCategoryId": 34,
+      "symptom": "Back pain & severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 372,
+      "subCategoryId": 34,
+      "symptom": "Back pain & incontinence of urine/bowel",
+      "todoId": 3
+    },
+    {
+      "id": 373,
+      "subCategoryId": 34,
+      "symptom": "Back pain & weakness in lower limbs",
+      "todoId": 3
+    },
+    {
+      "id": 374,
+      "subCategoryId": 34,
+      "symptom": "Back pain & numbness in perineal/perianal region",
+      "todoId": 3
+    },
+    {
+      "id": 375,
+      "subCategoryId": 34,
+      "symptom": "Back pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 376,
+      "subCategoryId": 34,
+      "symptom": "Back pain & progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 377,
+      "subCategoryId": 34,
+      "symptom": "Back pain & severity <5/10 or not affecting ones usual activities",
+      "todoId": 10
+    },
+    {
+      "id": 378,
+      "subCategoryId": 35,
+      "symptom": "Inability to move arm",
+      "todoId": 2
+    },
+    {
+      "id": 379,
+      "subCategoryId": 35,
+      "symptom": "Radiating to jaw, neck or shoulder",
+      "todoId": 2
+    },
+    {
+      "id": 380,
+      "subCategoryId": 35,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 1
+    },
+    {
+      "id": 381,
+      "subCategoryId": 35,
+      "symptom": "Crushing",
+      "todoId": 1
+    },
+    {
+      "id": 382,
+      "subCategoryId": 35,
+      "symptom": "Sudden onset",
+      "todoId": 3
+    },
+    {
+      "id": 383,
+      "subCategoryId": 35,
+      "symptom": "Duration > 15 minutes",
+      "todoId": 3
+    },
+    {
+      "id": 384,
+      "subCategoryId": 35,
+      "symptom": "Progressively getting worse",
+      "todoId": 2
+    },
+    {
+      "id": 385,
+      "subCategoryId": 35,
+      "symptom": "Not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 386,
+      "subCategoryId": 35,
+      "symptom": "Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 387,
+      "subCategoryId": 35,
+      "symptom": "Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 388,
+      "subCategoryId": 35,
+      "symptom": "Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 389,
+      "subCategoryId": 35,
+      "symptom": "Blood Pressure < 90/60",
+      "todoId": 1
+    },
+    {
+      "id": 390,
+      "subCategoryId": 35,
+      "symptom": "Blood Pressure > 180/110",
+      "todoId": 3
+    },
+    {
+      "id": 391,
+      "subCategoryId": 35,
+      "symptom": "Blood pressure > 160/100 to 180/110",
+      "todoId": 4
+    },
+    {
+      "id": 392,
+      "subCategoryId": 35,
+      "symptom": "Duration of <10-15 minutes that does not persist",
+      "todoId": 4
+    },
+    {
+      "id": 393,
+      "subCategoryId": 35,
+      "symptom": "Resolves within a short while on resting",
+      "todoId": 4
+    },
+    {
+      "id": 394,
+      "subCategoryId": 36,
+      "symptom": "Joint/Limb pain & severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 395,
+      "subCategoryId": 36,
+      "symptom": "Joint/Limb pain & not relieved by rest",
+      "todoId": 2
+    },
+    {
+      "id": 396,
+      "subCategoryId": 36,
+      "symptom": "Joint/Limb pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 397,
+      "subCategoryId": 36,
+      "symptom": "Joint/Limb pain & severity <5/10 or not affecting ones usual activities",
+      "todoId": 10
+    },
+    {
+      "id": 398,
+      "subCategoryId": 36,
+      "symptom": "Achilles pain - sudden onset after injury",
+      "todoId": 3
+    },
+    {
+      "id": 399,
+      "subCategoryId": 36,
+      "symptom": "One-sided numbness or weakness",
+      "todoId": 2
+    },
+    {
+      "id": 400,
+      "subCategoryId": 36,
+      "symptom": "Weakness in lower limbs & inability to walk",
+      "todoId": 3
+    },
+    {
+      "id": 401,
+      "subCategoryId": 36,
+      "symptom": "Weakness in lower limbs & severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 402,
+      "subCategoryId": 36,
+      "symptom": "Paralysis",
+      "todoId": 1
+    },
+    {
+      "id": 403,
+      "subCategoryId": 36,
+      "symptom": "Weakness in lower limbs & progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 404,
+      "subCategoryId": 36,
+      "symptom": "Weakness in lower limbs & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 405,
+      "subCategoryId": 36,
+      "symptom": "Weakness in lower limbs & not severe enough to affect usual activities",
+      "todoId": 7
+    },
+    {
+      "id": 406,
+      "subCategoryId": 36,
+      "symptom": "Tremors, shakes",
+      "todoId": 7
+    },
+    {
+      "id": 407,
+      "subCategoryId": 36,
+      "symptom": "Numbness in limbs",
+      "todoId": 7
+    },
+    {
+      "id": 408,
+      "subCategoryId": 37,
+      "symptom": "One-sided",
+      "todoId": 3
+    },
+    {
+      "id": 409,
+      "subCategoryId": 37,
+      "symptom": "Chest pain",
+      "todoId": 2
+    },
+    {
+      "id": 410,
+      "subCategoryId": 37,
+      "symptom": "Shortness of breath",
+      "todoId": 2
+    },
+    {
+      "id": 411,
+      "subCategoryId": 37,
+      "symptom": "Palpitations",
+      "todoId": 2
+    },
+    {
+      "id": 412,
+      "subCategoryId": 37,
+      "symptom": "Heart rate >120-160/minute",
+      "todoId": 2
+    },
+    {
+      "id": 413,
+      "subCategoryId": 37,
+      "symptom": "Heart rate >160/minute",
+      "todoId": 1
+    },
+    {
+      "id": 414,
+      "subCategoryId": 37,
+      "symptom": "Giddiness",
+      "todoId": 2
+    },
+    {
+      "id": 415,
+      "subCategoryId": 37,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 416,
+      "subCategoryId": 37,
+      "symptom": "Joint/Limb swelling in the absence of fever, pain or other symptoms",
+      "todoId": 7
+    },
+    {
+      "id": 417,
+      "subCategoryId": 38,
+      "symptom": "Rash - Involving > 30% of body surface area",
+      "todoId": 3
+    },
+    {
+      "id": 418,
+      "subCategoryId": 38,
+      "symptom": "Rash - Involving ulcers on lips or genitals",
+      "todoId": 3
+    },
+    {
+      "id": 419,
+      "subCategoryId": 38,
+      "symptom": "Rash - Significant eye swelling",
+      "todoId": 2
+    },
+    {
+      "id": 420,
+      "subCategoryId": 38,
+      "symptom": "Rash - Lip swelling",
+      "todoId": 2
+    },
+    {
+      "id": 421,
+      "subCategoryId": 38,
+      "symptom": "Rash - Shortness of breath",
+      "todoId": 1
+    },
+    {
+      "id": 422,
+      "subCategoryId": 38,
+      "symptom": "Rash - Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 423,
+      "subCategoryId": 38,
+      "symptom": "Rash - Involving > 30% of body surface area",
+      "todoId": 7
+    },
+    {
+      "id": 424,
+      "subCategoryId": 38,
+      "symptom": "Skin lump/swelling in the absence of pain",
+      "todoId": 7
+    },
+    {
+      "id": 425,
+      "subCategoryId": 38,
+      "symptom": "Skin ulcer in the absence of infection, contamination or deep injury",
+      "todoId": 7
+    },
+    {
+      "id": 426,
+      "subCategoryId": 38,
+      "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
+      "todoId": 7
+    },
+    {
+      "id": 427,
+      "subCategoryId": 38,
+      "symptom": "Skin pigmentation or discolouration",
+      "todoId": 7
+    },
+    {
+      "id": 428,
+      "subCategoryId": 39,
+      "symptom": "Significant trauma e.g. head injury, chest/abdominal injury, limb/spinal/pelvic fractures",
+      "todoId": 1
+    },
+    {
+      "id": 429,
+      "subCategoryId": 39,
+      "symptom": "Any open wound with possible contamination e.g. tetanus/rabies",
+      "todoId": 3
+    },
+    {
+      "id": 430,
+      "subCategoryId": 39,
+      "symptom": "Any open wound with suspected deep tendon/nerve injury, vessel injury or bone fracture",
+      "todoId": 3
+    },
+    {
+      "id": 431,
+      "subCategoryId": 39,
+      "symptom": "Any open wound with possible infection e.g discharge/swelling/redness",
+      "todoId": 4
+    },
+    {
+      "id": 432,
+      "subCategoryId": 39,
+      "symptom": "Any open wound with slow healing e.g not better after 1-2 weeks",
+      "todoId": 4
+    },
+    {
+      "id": 433,
+      "subCategoryId": 39,
+      "symptom": "Bleeding from any part of the body that is in large amounts",
+      "todoId": 2
+    },
+    {
+      "id": 434,
+      "subCategoryId": 39,
+      "symptom": "Bleeding that has not stopped after 1 hour",
+      "todoId": 2
+    },
+    {
+      "id": 435,
+      "subCategoryId": 39,
+      "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
+      "todoId": 7
+    },
+    {
+      "id": 436,
+      "subCategoryId": 40,
+      "symptom": "Any ongoing thoughts of harming yourself or others",
+      "todoId": 3
+    },
+    {
+      "id": 437,
+      "subCategoryId": 40,
+      "symptom": "Any danger of one harming oneself or others",
+      "todoId": 3
+    },
+    {
+      "id": 438,
+      "subCategoryId": 40,
+      "symptom": "Severe depression/anxiety",
+      "todoId": 4
+    },
+    {
+      "id": 439,
+      "subCategoryId": 40,
+      "symptom": "Hallucinations or delusions",
+      "todoId": 4
+    },
+    {
+      "id": 440,
+      "subCategoryId": 40,
+      "symptom": "Recent change in behaviour or personality",
+      "todoId": 4
+    },
+    {
+      "id": 441,
+      "subCategoryId": 40,
+      "symptom": "Mood problems not impairing usual activities or coping function",
+      "todoId": 7
+    },
+    {
+      "id": 442,
+      "subCategoryId": 40,
+      "symptom": "Poor sleep",
+      "todoId": 7
+    },
+    {
+      "id": 443,
+      "subCategoryId": 41,
+      "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
+      "todoId": 3
+    },
+    {
+      "id": 444,
+      "subCategoryId": 41,
+      "symptom": "Paralysis",
+      "todoId": 1
+    },
+    {
+      "id": 445,
+      "subCategoryId": 41,
+      "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
+      "todoId": 4
+    },
+    {
+      "id": 446,
+      "subCategoryId": 41,
+      "symptom": "Progressively getting worse",
+      "todoId": 4
+    },
+    {
+      "id": 447,
+      "subCategoryId": 41,
+      "symptom": "Severity < 5/10 or not affecting ones usual activities",
+      "todoId": 10
+    },
+    {
+      "id": 448,
+      "subCategoryId": 42,
+      "symptom": "Increase in appetite",
+      "todoId": 7
+    },
+    {
+      "id": 449,
+      "subCategoryId": 42,
+      "symptom": "Increase in weight",
+      "todoId": 7
+    },
+    {
+      "id": 450,
+      "subCategoryId": 42,
+      "symptom": "Loss of appetite",
+      "todoId": 7
+    },
+    {
+      "id": 451,
+      "subCategoryId": 42,
+      "symptom": "Loss of weight",
+      "todoId": 7
+    },
+    {
+      "id": 452,
+      "subCategoryId": 42,
+      "symptom": "Hot flushes in the absence of fever",
+      "todoId": 7
+    },
+    {
+      "id": 453,
+      "subCategoryId": 42,
+      "symptom": "Sweating in the absence of fever",
+      "todoId": 7
+    },
+    {
+      "id": 454,
+      "subCategoryId": 42,
+      "symptom": "Feeling hot in the absence of fever",
+      "todoId": 7
+    },
+    {
+      "id": 455,
+      "subCategoryId": 42,
+      "symptom": "Feeling cold in the absence of fever",
+      "todoId": 7
+    },
+    {
+      "id": 456,
+      "subCategoryId": 42,
+      "symptom": "Increased hair growth",
+      "todoId": 7
+    },
+    {
+      "id": 457,
+      "subCategoryId": 42,
+      "symptom": "Hair loss",
+      "todoId": 7
+    }
+  ],
+  "todo": [
+    {
+      "id": 1,
+      "message": "Urgent-Call Emergency Ambulance",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "message": "Urgent-See a Doctor TODAY within 2-3 hours",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "message": "Urgent-See a Doctor TODAY",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "message": "Within 2-3 days",
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "message": "Observe another 1-2 days",
+      "priority": 5
+    },
+    {
+      "id": 6,
+      "message": "Likely simple Urine Tract Infection if without fever or abdominal/loin pain. Consider antibiotics & see Dr if not better after 2 days",
+      "priority": 6
+    },
+    {
+      "id": 7,
+      "message": "Wait up to 2 weeks",
+      "priority": 7
+    },
+    {
+      "id": 8,
+      "message": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm",
+      "priority": 8
+    },
+    {
+      "id": 9,
+      "message": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment",
+      "priority": 9
+    },
+    {
+      "id": 10,
+      "message": "Wait up to 2 weeks, can consider physiotherapy in the meantime",
+      "priority": 10
+    }
+  ]
+}

@@ -261,6 +261,7 @@
     {
       "id": 1,
       "subCategoryId": 1,
+      "subCategoryName": "But not getting better, or worse after treatment",
       "symptom": "Unless you fulfil more urgent criteria below you should be seen",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -268,6 +269,7 @@
     {
       "id": 2,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": ">40 degrees celsius or > 104 degrees fahrenheit",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -275,6 +277,7 @@
     {
       "id": 3,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Rigors (Shakes)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -282,6 +285,7 @@
     {
       "id": 4,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -289,6 +293,7 @@
     {
       "id": 5,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Pale clay colored stools",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -296,6 +301,7 @@
     {
       "id": 6,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Rash",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -303,6 +309,7 @@
     {
       "id": 7,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Open wound",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -310,6 +317,7 @@
     {
       "id": 8,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Stiff neck",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -317,6 +325,7 @@
     {
       "id": 9,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Photophobia(sensitivity to light)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -324,6 +333,7 @@
     {
       "id": 10,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Joint/Limb swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -331,6 +341,7 @@
     {
       "id": 11,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Lower limb swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -338,6 +349,7 @@
     {
       "id": 12,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Duration > 3-5 days",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -345,6 +357,7 @@
     {
       "id": 13,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Blood in urine",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -352,6 +365,7 @@
     {
       "id": 14,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Pain on urination",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -359,6 +373,7 @@
     {
       "id": 15,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Difficulty passing urine",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -366,6 +381,7 @@
     {
       "id": 16,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Poor stream of urine",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -373,6 +389,7 @@
     {
       "id": 17,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal vaginal bleeding",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -380,6 +397,7 @@
     {
       "id": 18,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal vaginal discharge",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -387,6 +405,7 @@
     {
       "id": 19,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal penile discharge",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -394,6 +413,7 @@
     {
       "id": 20,
       "subCategoryId": 2,
+      "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Duration < 3 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -401,6 +421,7 @@
     {
       "id": 21,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": ">38 degrees celsius or > 100.4 degrees fahrenheit in child < 3 mths",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -408,6 +429,7 @@
     {
       "id": 22,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": ">39 degrees celsius or > 102.2 degrees fahrenheit in child 3-6 mths",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -415,6 +437,7 @@
     {
       "id": 23,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": ">40 degrees celsius or > 104 degrees fahrenheit in child > 6 mths",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -422,6 +445,7 @@
     {
       "id": 24,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Rigors (Shakes)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -429,6 +453,7 @@
     {
       "id": 25,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Duration > 3-5 days",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -436,6 +461,7 @@
     {
       "id": 26,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "not responding normally to social cues",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -443,6 +469,7 @@
     {
       "id": 27,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "drowsy(wakes only with prolonged stimulation)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -450,6 +477,7 @@
     {
       "id": 28,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "decreased activity",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -457,6 +485,7 @@
     {
       "id": 29,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Heart rate > 140-160/min",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -464,6 +493,7 @@
     {
       "id": 30,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Heart rate > 160/min",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -471,6 +501,7 @@
     {
       "id": 31,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Flaring of nostrils, straining of neck muscles or abdominal retractions",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -478,6 +509,7 @@
     {
       "id": 32,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "breathing rate > 40-50/min",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -485,6 +517,7 @@
     {
       "id": 33,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "breathing rate > 50/min",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -492,6 +525,7 @@
     {
       "id": 34,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "saturations < 95%",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -499,6 +533,7 @@
     {
       "id": 35,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "no urine output > 6 hours",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -506,6 +541,7 @@
     {
       "id": 36,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -513,6 +549,7 @@
     {
       "id": 37,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Pale clay colored stools",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -520,6 +557,7 @@
     {
       "id": 38,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Rash",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -527,6 +565,7 @@
     {
       "id": 39,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Open wound",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -534,6 +573,7 @@
     {
       "id": 40,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Joint/Limb swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -541,6 +581,7 @@
     {
       "id": 41,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Not moving limb/extremity",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -548,6 +589,7 @@
     {
       "id": 42,
       "subCategoryId": 3,
+      "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Duration < 3 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -555,6 +597,7 @@
     {
       "id": 43,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -562,6 +605,7 @@
     {
       "id": 44,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -569,6 +613,7 @@
     {
       "id": 45,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -576,6 +621,7 @@
     {
       "id": 46,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Sudden onset (like a thunderclap)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -583,6 +629,7 @@
     {
       "id": 47,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Recent trauma in the preceding few weeks",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -590,6 +637,7 @@
     {
       "id": 48,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -597,6 +645,7 @@
     {
       "id": 49,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Stiff neck",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -604,6 +653,7 @@
     {
       "id": 50,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Photophobia(sensitivity to light)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -611,6 +661,7 @@
     {
       "id": 51,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Vomiting",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -618,6 +669,7 @@
     {
       "id": 52,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Pain on chewing",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -625,6 +677,7 @@
     {
       "id": 53,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Scalp tenderness",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -632,6 +685,7 @@
     {
       "id": 54,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -639,6 +693,7 @@
     {
       "id": 55,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -646,6 +701,7 @@
     {
       "id": 56,
       "subCategoryId": 4,
+      "subCategoryName": "Headache",
       "symptom": "Severity < 5/10 or not affecting ones usual activities",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -653,6 +709,7 @@
     {
       "id": 57,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -660,6 +717,7 @@
     {
       "id": 58,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -667,6 +725,7 @@
     {
       "id": 59,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -674,6 +733,7 @@
     {
       "id": 60,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -681,6 +741,7 @@
     {
       "id": 61,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -688,6 +749,7 @@
     {
       "id": 62,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -695,6 +757,7 @@
     {
       "id": 63,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -702,6 +765,7 @@
     {
       "id": 64,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -709,6 +773,7 @@
     {
       "id": 65,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -716,6 +781,7 @@
     {
       "id": 66,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -723,6 +789,7 @@
     {
       "id": 67,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -730,6 +797,7 @@
     {
       "id": 68,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -737,6 +805,7 @@
     {
       "id": 69,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -744,6 +813,7 @@
     {
       "id": 70,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -751,6 +821,7 @@
     {
       "id": 71,
       "subCategoryId": 5,
+      "subCategoryName": "Neck pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -758,6 +829,7 @@
     {
       "id": 72,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -765,6 +837,7 @@
     {
       "id": 73,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -772,6 +845,7 @@
     {
       "id": 74,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -779,6 +853,7 @@
     {
       "id": 75,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Persistent(Not relieved by rest of staying still)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -786,6 +861,7 @@
     {
       "id": 76,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "On standing upright from seated or lying position",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -793,6 +869,7 @@
     {
       "id": 77,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Sweating",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -800,6 +877,7 @@
     {
       "id": 78,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Palpitations",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -807,6 +885,7 @@
     {
       "id": 79,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Tremors",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -814,6 +893,7 @@
     {
       "id": 80,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Vision going dark",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -821,6 +901,7 @@
     {
       "id": 81,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -828,6 +909,7 @@
     {
       "id": 82,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -835,6 +917,7 @@
     {
       "id": 83,
       "subCategoryId": 6,
+      "subCategoryName": "Giddiness",
       "symptom": "Resolves within a short while on resting",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -842,6 +925,7 @@
     {
       "id": 84,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Loss of Consciousness",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -849,6 +933,7 @@
     {
       "id": 85,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Drowsiness",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -856,6 +941,7 @@
     {
       "id": 86,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Acute Confusion",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -863,6 +949,7 @@
     {
       "id": 87,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Seizure (suspected or confirmed)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -870,6 +957,7 @@
     {
       "id": 88,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Slurring of speech",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -877,6 +965,7 @@
     {
       "id": 89,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Facial drooping",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -884,6 +973,7 @@
     {
       "id": 90,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "One-sided numbness or weakness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -891,6 +981,7 @@
     {
       "id": 91,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Suspected seizure with no loss of consciousness",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -898,6 +989,7 @@
     {
       "id": 92,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Stiff neck",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -905,6 +997,7 @@
     {
       "id": 93,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Photophobia (sensitivity to light)",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -912,6 +1005,7 @@
     {
       "id": 94,
       "subCategoryId": 7,
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Tremors, shakes",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -919,6 +1013,7 @@
     {
       "id": 95,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -926,6 +1021,7 @@
     {
       "id": 96,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -933,6 +1029,7 @@
     {
       "id": 97,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -940,6 +1037,7 @@
     {
       "id": 98,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -947,6 +1045,7 @@
     {
       "id": 99,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -954,6 +1053,7 @@
     {
       "id": 100,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -961,6 +1061,7 @@
     {
       "id": 101,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -968,6 +1069,7 @@
     {
       "id": 102,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -975,6 +1077,7 @@
     {
       "id": 103,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -982,6 +1085,7 @@
     {
       "id": 104,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -989,6 +1093,7 @@
     {
       "id": 105,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -996,6 +1101,7 @@
     {
       "id": 106,
       "subCategoryId": 8,
+      "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1003,6 +1109,7 @@
     {
       "id": 107,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1010,6 +1117,7 @@
     {
       "id": 108,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1017,6 +1125,7 @@
     {
       "id": 109,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1024,6 +1133,7 @@
     {
       "id": 110,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1031,6 +1141,7 @@
     {
       "id": 111,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1038,6 +1149,7 @@
     {
       "id": 112,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1045,6 +1157,7 @@
     {
       "id": 113,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1052,6 +1165,7 @@
     {
       "id": 114,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1059,6 +1173,7 @@
     {
       "id": 115,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1066,6 +1181,7 @@
     {
       "id": 116,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1073,6 +1189,7 @@
     {
       "id": 117,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1080,6 +1197,7 @@
     {
       "id": 118,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast pain - Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1087,6 +1205,7 @@
     {
       "id": 119,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Breast lump in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1094,6 +1213,7 @@
     {
       "id": 120,
       "subCategoryId": 9,
+      "subCategoryName": "Breast",
       "symptom": "Nipple discharge in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1101,6 +1221,7 @@
     {
       "id": 121,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1108,6 +1229,7 @@
     {
       "id": 122,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1115,6 +1237,7 @@
     {
       "id": 123,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1122,6 +1245,7 @@
     {
       "id": 124,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1129,6 +1253,7 @@
     {
       "id": 125,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1136,6 +1261,7 @@
     {
       "id": 126,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1143,6 +1269,7 @@
     {
       "id": 127,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1150,6 +1277,7 @@
     {
       "id": 128,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1157,6 +1285,7 @@
     {
       "id": 129,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1164,6 +1293,7 @@
     {
       "id": 130,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1171,6 +1301,7 @@
     {
       "id": 131,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1178,6 +1309,7 @@
     {
       "id": 132,
       "subCategoryId": 10,
+      "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1185,6 +1317,7 @@
     {
       "id": 133,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1192,6 +1325,7 @@
     {
       "id": 134,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1199,6 +1333,7 @@
     {
       "id": 135,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Even at rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1206,6 +1341,7 @@
     {
       "id": 136,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1213,6 +1349,7 @@
     {
       "id": 137,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1220,6 +1357,7 @@
     {
       "id": 138,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Saturations < 92%(adult) or < 95% (children)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1227,6 +1365,7 @@
     {
       "id": 139,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Respiratory rate > 30-35/minute in adults, > 40-50/minute in children < 5yrs old",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1234,6 +1373,7 @@
     {
       "id": 140,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Respiratory rate > 35/minute in adults, > 50/minute in children < 5yrs old",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1241,6 +1381,7 @@
     {
       "id": 141,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Flaring of nostrils, straining of neck muscles or abdominal retractions",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1248,6 +1389,7 @@
     {
       "id": 142,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1255,6 +1397,7 @@
     {
       "id": 143,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Duration < 10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1262,6 +1405,7 @@
     {
       "id": 144,
       "subCategoryId": 11,
+      "subCategoryName": "Shortness of breath",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1269,6 +1413,7 @@
     {
       "id": 145,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate >120-160/minute for > 5 yr olds",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1276,6 +1421,7 @@
     {
       "id": 146,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate >140-160/minute for children < 5 yrs old",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1283,6 +1429,7 @@
     {
       "id": 147,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate >160/minute",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1290,6 +1437,7 @@
     {
       "id": 148,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate 30-50/minute",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1297,6 +1445,7 @@
     {
       "id": 149,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate <30/minute",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -1304,6 +1453,7 @@
     {
       "id": 150,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Irregular rhythm",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1311,6 +1461,7 @@
     {
       "id": 151,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 100 to 120/minute",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1318,6 +1469,7 @@
     {
       "id": 152,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 50 to 60/minute",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1325,6 +1477,7 @@
     {
       "id": 153,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1332,6 +1485,7 @@
     {
       "id": 154,
       "subCategoryId": 12,
+      "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 60 to 100/minute",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1339,6 +1493,7 @@
     {
       "id": 155,
       "subCategoryId": 13,
+      "subCategoryName": "Cough",
       "symptom": "Blood in sputum - large amounts",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1346,6 +1501,7 @@
     {
       "id": 156,
       "subCategoryId": 13,
+      "subCategoryName": "Cough",
       "symptom": "Blood in sputum - small amounts",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1353,6 +1509,7 @@
     {
       "id": 157,
       "subCategoryId": 13,
+      "subCategoryName": "Cough",
       "symptom": "Cough",
       "todoId": 7,
       "todoMessage": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
@@ -1360,6 +1517,7 @@
     {
       "id": 158,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Continuous pain & duration > 30 minutes",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1367,6 +1525,7 @@
     {
       "id": 159,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1374,6 +1533,7 @@
     {
       "id": 160,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Gets worse with movement/coughing",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1381,6 +1541,7 @@
     {
       "id": 161,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Fever & Jaundice",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1388,6 +1549,7 @@
     {
       "id": 162,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Pregnant",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1395,6 +1557,7 @@
     {
       "id": 163,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Duration < 30 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1402,6 +1565,7 @@
     {
       "id": 164,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1409,6 +1573,7 @@
     {
       "id": 165,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1416,6 +1581,7 @@
     {
       "id": 166,
       "subCategoryId": 14,
+      "subCategoryName": "Abdominal pain",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1423,6 +1589,7 @@
     {
       "id": 167,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Coffee grounds vomitus",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1430,6 +1597,7 @@
     {
       "id": 168,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Fresh blood (large amounts, not drops/stains)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1437,6 +1605,7 @@
     {
       "id": 169,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Unable to retain fluids",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1444,6 +1613,7 @@
     {
       "id": 170,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Blood stains (small amounts)",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1451,6 +1621,7 @@
     {
       "id": 171,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1458,6 +1629,7 @@
     {
       "id": 172,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1465,6 +1637,7 @@
     {
       "id": 173,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Duration < 3-5 days & able to retain fluids, not dehydrated",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -1472,6 +1645,7 @@
     {
       "id": 174,
       "subCategoryId": 15,
+      "subCategoryName": "Nausea/vomiting",
       "symptom": "Nausea no vomiting",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1479,6 +1653,7 @@
     {
       "id": 175,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Large amounts fresh red blood",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1486,6 +1661,7 @@
     {
       "id": 176,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Black tarry stools",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1493,6 +1669,7 @@
     {
       "id": 177,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Blood stains (small amounts)",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1500,6 +1677,7 @@
     {
       "id": 178,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Diarrhea > 5 days",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1507,6 +1685,7 @@
     {
       "id": 179,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - No stools > 5 days",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1514,6 +1693,7 @@
     {
       "id": 180,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Change from usual habits",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1521,6 +1701,7 @@
     {
       "id": 181,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Mucus in stools",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1528,6 +1709,7 @@
     {
       "id": 182,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "No stools > 5 days",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1535,6 +1717,7 @@
     {
       "id": 183,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Bloating",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1542,6 +1725,7 @@
     {
       "id": 184,
       "subCategoryId": 16,
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abdominal distension in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1549,6 +1733,7 @@
     {
       "id": 185,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "No urination > 12 hours",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1556,6 +1741,7 @@
     {
       "id": 186,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Blood in urine",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1563,6 +1749,7 @@
     {
       "id": 187,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Pain on urination",
       "todoId": 5,
       "todoMessage": "Likely simple Urine Tract Infection if without fever or abdominal/loin pain. Consider antibiotics & see Dr if not better after 2 days"
@@ -1570,6 +1757,7 @@
     {
       "id": 188,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Urgency of urination",
       "todoId": 5,
       "todoMessage": "Likely simple Urine Tract Infection if without fever or abdominal/loin pain. Consider antibiotics & see Dr if not better after 2 days"
@@ -1577,6 +1765,7 @@
     {
       "id": 189,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Frequency of urination",
       "todoId": 5,
       "todoMessage": "Likely simple Urine Tract Infection if without fever or abdominal/loin pain. Consider antibiotics & see Dr if not better after 2 days"
@@ -1584,6 +1773,7 @@
     {
       "id": 190,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Difficulty passing urine",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1591,6 +1781,7 @@
     {
       "id": 191,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Poor stream of urine",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1598,6 +1789,7 @@
     {
       "id": 192,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Getting up to pass urine at night",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1605,6 +1797,7 @@
     {
       "id": 193,
       "subCategoryId": 17,
+      "subCategoryName": "Urinary/Bladder",
       "symptom": "Increased volume of urine",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1612,6 +1805,7 @@
     {
       "id": 194,
       "subCategoryId": 18,
+      "subCategoryName": "Incontinence of urine/bowel",
       "symptom": "New or sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1619,6 +1813,7 @@
     {
       "id": 195,
       "subCategoryId": 18,
+      "subCategoryName": "Incontinence of urine/bowel",
       "symptom": "Weakness in lower limbs",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1626,6 +1821,7 @@
     {
       "id": 196,
       "subCategoryId": 18,
+      "subCategoryName": "Incontinence of urine/bowel",
       "symptom": "Numbness in perineal/perianal region",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1633,6 +1829,7 @@
     {
       "id": 197,
       "subCategoryId": 18,
+      "subCategoryName": "Incontinence of urine/bowel",
       "symptom": "Not new or sudden onset",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1640,6 +1837,7 @@
     {
       "id": 198,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Constant pain & Duration > 15 minutes",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1647,6 +1845,7 @@
     {
       "id": 199,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Severity >5/10 or severe enough to affect one from performing usual activities",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1654,6 +1853,7 @@
     {
       "id": 200,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Nausea no vomiting",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1661,6 +1861,7 @@
     {
       "id": 201,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Vomiting",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1668,6 +1869,7 @@
     {
       "id": 202,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Gets worse with movement/coughing",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1675,6 +1877,7 @@
     {
       "id": 203,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1682,6 +1885,7 @@
     {
       "id": 204,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Severity < 5/10 or not affecting ones usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1689,6 +1893,7 @@
     {
       "id": 205,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1696,6 +1901,7 @@
     {
       "id": 206,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Testicular lump in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1703,6 +1909,7 @@
     {
       "id": 207,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Groin lump in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1710,6 +1917,7 @@
     {
       "id": 208,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Genital Ulcers",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1717,6 +1925,7 @@
     {
       "id": 209,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Erectile dysfunction",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1724,6 +1933,7 @@
     {
       "id": 210,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Loss of libido",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1731,6 +1941,7 @@
     {
       "id": 211,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Premature ejaculation",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1738,6 +1949,7 @@
     {
       "id": 212,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Blood in semen",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1745,6 +1957,7 @@
     {
       "id": 213,
       "subCategoryId": 19,
+      "subCategoryName": "Male sex organs",
       "symptom": "Abnormal penile discharge",
       "todoId": 9,
       "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
@@ -1752,6 +1965,7 @@
     {
       "id": 214,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal bleeding - Pregnant",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1759,6 +1973,7 @@
     {
       "id": 215,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal bleeding - Large amounts",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1766,6 +1981,7 @@
     {
       "id": 216,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal bleeding - Small amounts",
       "todoId": 9,
       "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
@@ -1773,6 +1989,7 @@
     {
       "id": 217,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal discharge - Pregnant",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1780,6 +1997,7 @@
     {
       "id": 218,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal discharge - No fever or pain",
       "todoId": 9,
       "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
@@ -1787,6 +2005,7 @@
     {
       "id": 219,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Genital Ulcers - Pregnant",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1794,6 +2013,7 @@
     {
       "id": 220,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Genital Ulcers",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1801,6 +2021,7 @@
     {
       "id": 221,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Loss of libido",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1808,6 +2029,7 @@
     {
       "id": 222,
       "subCategoryId": 20,
+      "subCategoryName": "Female sex organs",
       "symptom": "Pain on intercourse",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -1815,6 +2037,7 @@
     {
       "id": 223,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Contact Lens User",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1822,6 +2045,7 @@
     {
       "id": 224,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Headache",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1829,6 +2053,7 @@
     {
       "id": 225,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Nausea",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1836,6 +2061,7 @@
     {
       "id": 226,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Vomiting",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1843,6 +2069,7 @@
     {
       "id": 227,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - One-sided only",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1850,6 +2077,7 @@
     {
       "id": 228,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1857,6 +2085,7 @@
     {
       "id": 229,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1864,6 +2093,7 @@
     {
       "id": 230,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Both sides & Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -1871,6 +2101,7 @@
     {
       "id": 231,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Contact Lens User",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1878,6 +2109,7 @@
     {
       "id": 232,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Headache",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1885,6 +2117,7 @@
     {
       "id": 233,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Nausea",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1892,6 +2125,7 @@
     {
       "id": 234,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Vomiting",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1899,6 +2133,7 @@
     {
       "id": 235,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1906,6 +2141,7 @@
     {
       "id": 236,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1913,6 +2149,7 @@
     {
       "id": 237,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - One-sided only",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1920,6 +2157,7 @@
     {
       "id": 238,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1927,6 +2165,7 @@
     {
       "id": 239,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1934,6 +2173,7 @@
     {
       "id": 240,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Both sides & Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -1941,6 +2181,7 @@
     {
       "id": 241,
       "subCategoryId": 21,
+      "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Both sides & Severity < 5/10 or not affecting ones usual activities",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -1948,6 +2189,7 @@
     {
       "id": 242,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Double vision",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1955,6 +2197,7 @@
     {
       "id": 243,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Any acute or recent loss of vision",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1962,6 +2205,7 @@
     {
       "id": 244,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Any recent trauma/injury to the eye",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1969,6 +2213,7 @@
     {
       "id": 245,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Significant eye swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1976,6 +2221,7 @@
     {
       "id": 246,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1983,6 +2229,7 @@
     {
       "id": 247,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -1990,6 +2237,7 @@
     {
       "id": 248,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -1997,6 +2245,7 @@
     {
       "id": 249,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - New or sudden onset",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2004,6 +2253,7 @@
     {
       "id": 250,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2011,6 +2261,7 @@
     {
       "id": 251,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - Not new or sudden onset and not getting worse",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2018,6 +2269,7 @@
     {
       "id": 252,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Change in visual acuity with no loss of vision",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2025,6 +2277,7 @@
     {
       "id": 253,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eyelid lumps or bumps only with no significant eye swelling",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2032,6 +2285,7 @@
     {
       "id": 254,
       "subCategoryId": 22,
+      "subCategoryName": "Other Eye Symptoms",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2039,6 +2293,7 @@
     {
       "id": 255,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Severity >8/10 or severe enough to prevent one from eating/drinking",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2046,6 +2301,7 @@
     {
       "id": 256,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Severity>5/10 to 7/10 or severe enough to cause significant discomfort eating/drinking",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2053,6 +2309,7 @@
     {
       "id": 257,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2060,6 +2317,7 @@
     {
       "id": 258,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2067,6 +2325,7 @@
     {
       "id": 259,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
@@ -2074,6 +2333,7 @@
     {
       "id": 260,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2081,6 +2341,7 @@
     {
       "id": 261,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2088,6 +2349,7 @@
     {
       "id": 262,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2095,6 +2357,7 @@
     {
       "id": 263,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2102,6 +2365,7 @@
     {
       "id": 264,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Severity < 5/10 or not affecting ones usual activities",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2109,6 +2373,7 @@
     {
       "id": 265,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Significant ear swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2116,6 +2381,7 @@
     {
       "id": 266,
       "subCategoryId": 23,
+      "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear discharge in the absence of pain or fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2123,6 +2389,7 @@
     {
       "id": 267,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2130,6 +2397,7 @@
     {
       "id": 268,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2137,6 +2405,7 @@
     {
       "id": 269,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2144,6 +2413,7 @@
     {
       "id": 270,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2151,6 +2421,7 @@
     {
       "id": 271,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2158,6 +2429,7 @@
     {
       "id": 272,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2165,6 +2437,7 @@
     {
       "id": 273,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2172,6 +2445,7 @@
     {
       "id": 274,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2179,6 +2453,7 @@
     {
       "id": 275,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2186,6 +2461,7 @@
     {
       "id": 276,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2193,6 +2469,7 @@
     {
       "id": 277,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2200,6 +2477,7 @@
     {
       "id": 278,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2207,6 +2485,7 @@
     {
       "id": 279,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2214,6 +2493,7 @@
     {
       "id": 280,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2221,6 +2501,7 @@
     {
       "id": 281,
       "subCategoryId": 24,
+      "subCategoryName": "Neck pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2228,6 +2509,7 @@
     {
       "id": 282,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2235,6 +2517,7 @@
     {
       "id": 283,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2242,6 +2525,7 @@
     {
       "id": 284,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2249,6 +2533,7 @@
     {
       "id": 285,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2256,6 +2541,7 @@
     {
       "id": 286,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2263,6 +2549,7 @@
     {
       "id": 287,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2270,6 +2557,7 @@
     {
       "id": 288,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2277,6 +2565,7 @@
     {
       "id": 289,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2284,6 +2573,7 @@
     {
       "id": 290,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2291,6 +2581,7 @@
     {
       "id": 291,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2298,6 +2589,7 @@
     {
       "id": 292,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2305,6 +2597,7 @@
     {
       "id": 293,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2312,6 +2605,7 @@
     {
       "id": 294,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2319,6 +2613,7 @@
     {
       "id": 295,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2326,6 +2621,7 @@
     {
       "id": 296,
       "subCategoryId": 25,
+      "subCategoryName": "Jaw pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2333,6 +2629,7 @@
     {
       "id": 297,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Significant ear swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2340,6 +2637,7 @@
     {
       "id": 298,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2347,6 +2645,7 @@
     {
       "id": 299,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Onset > months ago",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2354,6 +2653,7 @@
     {
       "id": 300,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2361,6 +2661,7 @@
     {
       "id": 301,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Onset > months ago",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2368,6 +2669,7 @@
     {
       "id": 302,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Ear discharge in the absence of pain or fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2375,6 +2677,7 @@
     {
       "id": 303,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Runny nose or blocked nose in the absence of pain or fever",
       "todoId": 7,
       "todoMessage": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
@@ -2382,6 +2685,7 @@
     {
       "id": 304,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2389,6 +2693,7 @@
     {
       "id": 305,
       "subCategoryId": 26,
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Neck swelling or lump in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2396,6 +2701,7 @@
     {
       "id": 306,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2403,6 +2709,7 @@
     {
       "id": 307,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & incontinence of urine/bowel",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2410,6 +2717,7 @@
     {
       "id": 308,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & weakness in lower limbs",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2417,6 +2725,7 @@
     {
       "id": 309,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & numbness in perineal/perianal region",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2424,6 +2733,7 @@
     {
       "id": 310,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2431,6 +2741,7 @@
     {
       "id": 311,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2438,6 +2749,7 @@
     {
       "id": 312,
       "subCategoryId": 27,
+      "subCategoryName": "Back",
       "symptom": "Back pain & severity <5/10 or not affecting ones usual activities",
       "todoId": 8,
       "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
@@ -2445,6 +2757,7 @@
     {
       "id": 313,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Inability to move arm",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2452,6 +2765,7 @@
     {
       "id": 314,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2459,6 +2773,7 @@
     {
       "id": 315,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2466,6 +2781,7 @@
     {
       "id": 316,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2473,6 +2789,7 @@
     {
       "id": 317,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2480,6 +2797,7 @@
     {
       "id": 318,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2487,6 +2805,7 @@
     {
       "id": 319,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2494,6 +2813,7 @@
     {
       "id": 320,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2501,6 +2821,7 @@
     {
       "id": 321,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2508,6 +2829,7 @@
     {
       "id": 322,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2515,6 +2837,7 @@
     {
       "id": 323,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2522,6 +2845,7 @@
     {
       "id": 324,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2529,6 +2853,7 @@
     {
       "id": 325,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2536,6 +2861,7 @@
     {
       "id": 326,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2543,6 +2869,7 @@
     {
       "id": 327,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2550,6 +2877,7 @@
     {
       "id": 328,
       "subCategoryId": 28,
+      "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2557,6 +2885,7 @@
     {
       "id": 329,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2564,6 +2893,7 @@
     {
       "id": 330,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2571,6 +2901,7 @@
     {
       "id": 331,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2578,6 +2909,7 @@
     {
       "id": 332,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & severity <5/10 or not affecting ones usual activities",
       "todoId": 8,
       "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
@@ -2585,6 +2917,7 @@
     {
       "id": 333,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Achilles pain - sudden onset after injury",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2592,6 +2925,7 @@
     {
       "id": 334,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "One-sided numbness or weakness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2599,6 +2933,7 @@
     {
       "id": 335,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & inability to walk",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2606,6 +2941,7 @@
     {
       "id": 336,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2613,6 +2949,7 @@
     {
       "id": 337,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Paralysis",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2620,6 +2957,7 @@
     {
       "id": 338,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2627,6 +2965,7 @@
     {
       "id": 339,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2634,6 +2973,7 @@
     {
       "id": 340,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & not severe enough to affect usual activities",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2641,6 +2981,7 @@
     {
       "id": 341,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Tremors, shakes",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2648,6 +2989,7 @@
     {
       "id": 342,
       "subCategoryId": 29,
+      "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Numbness in limbs",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2655,6 +2997,7 @@
     {
       "id": 343,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "One-sided",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2662,6 +3005,7 @@
     {
       "id": 344,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Chest pain",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2669,6 +3013,7 @@
     {
       "id": 345,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2676,6 +3021,7 @@
     {
       "id": 346,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2683,6 +3029,7 @@
     {
       "id": 347,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Heart rate >120-160/minute",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2690,6 +3037,7 @@
     {
       "id": 348,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Heart rate >160/minute",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2697,6 +3045,7 @@
     {
       "id": 349,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2704,6 +3053,7 @@
     {
       "id": 350,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2711,6 +3061,7 @@
     {
       "id": 351,
       "subCategoryId": 30,
+      "subCategoryName": "Limb swelling",
       "symptom": "Joint/Limb swelling in the absence of fever, pain or other symptoms",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2718,6 +3069,7 @@
     {
       "id": 352,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Involving > 30% of body surface area",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2725,6 +3077,7 @@
     {
       "id": 353,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Involving ulcers on lips or genitals",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2732,6 +3085,7 @@
     {
       "id": 354,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Significant eye swelling",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2739,6 +3093,7 @@
     {
       "id": 355,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Lip swelling",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2746,6 +3101,7 @@
     {
       "id": 356,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Shortness of breath",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2753,6 +3109,7 @@
     {
       "id": 357,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2760,6 +3117,7 @@
     {
       "id": 358,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Rash - Involving > 30% of body surface area",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2767,6 +3125,7 @@
     {
       "id": 359,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Skin lump/swelling in the absence of pain",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2774,6 +3133,7 @@
     {
       "id": 360,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Skin ulcer in the absence of infection, contamination or deep injury",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2781,6 +3141,7 @@
     {
       "id": 361,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2788,6 +3149,7 @@
     {
       "id": 362,
       "subCategoryId": 31,
+      "subCategoryName": "Skin",
       "symptom": "Skin pigmentation or discolouration",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2795,6 +3157,7 @@
     {
       "id": 363,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Significant trauma e.g. head injury, chest/abdominal injury, limb/spinal/pelvic fractures",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2802,6 +3165,7 @@
     {
       "id": 364,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with possible contamination e.g. tetanus/rabies",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2809,6 +3173,7 @@
     {
       "id": 365,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with suspected deep tendon/nerve injury, vessel injury or bone fracture",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2816,6 +3181,7 @@
     {
       "id": 366,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with possible infection e.g discharge/swelling/redness",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2823,6 +3189,7 @@
     {
       "id": 367,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with slow healing e.g not better after 1-2 weeks",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2830,6 +3197,7 @@
     {
       "id": 368,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Bleeding from any part of the body that is in large amounts",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2837,6 +3205,7 @@
     {
       "id": 369,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Bleeding that has not stopped after 1 hour",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2844,6 +3213,7 @@
     {
       "id": 370,
       "subCategoryId": 32,
+      "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2851,6 +3221,7 @@
     {
       "id": 371,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Any ongoing thoughts of harming yourself or others",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2858,6 +3229,7 @@
     {
       "id": 372,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Any danger of one harming oneself or others",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2865,6 +3237,7 @@
     {
       "id": 373,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Severe depression/anxiety",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2872,6 +3245,7 @@
     {
       "id": 374,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Hallucinations or delusions",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2879,6 +3253,7 @@
     {
       "id": 375,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Recent change in behaviour or personality",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2886,6 +3261,7 @@
     {
       "id": 376,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Mood problems not impairing usual activities or coping function",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2893,6 +3269,7 @@
     {
       "id": 377,
       "subCategoryId": 33,
+      "subCategoryName": "Mental health",
       "symptom": "Poor sleep",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2900,6 +3277,7 @@
     {
       "id": 378,
       "subCategoryId": 34,
+      "subCategoryName": "Other pain",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2907,6 +3285,7 @@
     {
       "id": 379,
       "subCategoryId": 34,
+      "subCategoryName": "Other pain",
       "symptom": "Paralysis",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2914,6 +3293,7 @@
     {
       "id": 380,
       "subCategoryId": 34,
+      "subCategoryName": "Other pain",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2921,6 +3301,7 @@
     {
       "id": 381,
       "subCategoryId": 34,
+      "subCategoryName": "Other pain",
       "symptom": "Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
@@ -2928,6 +3309,7 @@
     {
       "id": 382,
       "subCategoryId": 34,
+      "subCategoryName": "Other pain",
       "symptom": "Severity < 5/10 or not affecting ones usual activities",
       "todoId": 8,
       "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
@@ -2935,6 +3317,7 @@
     {
       "id": 383,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Increase in appetite",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2942,6 +3325,7 @@
     {
       "id": 384,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Increase in weight",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2949,6 +3333,7 @@
     {
       "id": 385,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Loss of appetite",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2956,6 +3341,7 @@
     {
       "id": 386,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Loss of weight",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2963,6 +3349,7 @@
     {
       "id": 387,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Hot flushes in the absence of fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2970,6 +3357,7 @@
     {
       "id": 388,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Sweating in the absence of fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2977,6 +3365,7 @@
     {
       "id": 389,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Feeling hot in the absence of fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2984,6 +3373,7 @@
     {
       "id": 390,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Feeling cold in the absence of fever",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2991,6 +3381,7 @@
     {
       "id": 391,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Increased hair growth",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2998,6 +3389,7 @@
     {
       "id": 392,
       "subCategoryId": 35,
+      "subCategoryName": "Other miscellaneous",
       "symptom": "Hair loss",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"

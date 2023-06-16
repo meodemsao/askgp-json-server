@@ -49,176 +49,211 @@
     {
       "id": 1,
       "categoryId": 1,
+      "categoryName": "Recently Treated by a Dr",
       "name": "But not getting better, or worse after treatment"
     },
     {
       "id": 2,
       "categoryId": 2,
+      "categoryName": "Fever or Feeling Unwell",
       "name": "Fever/Unwell(>5yrs old)"
     },
     {
       "id": 3,
       "categoryId": 2,
+      "categoryName": "Fever or Feeling Unwell",
       "name": "Fever/Unwell(<5yrs old)"
     },
     {
       "id": 4,
       "categoryId": 3,
+      "categoryName": "Head/Neuro",
       "name": "Headache"
     },
     {
       "id": 5,
       "categoryId": 3,
+      "categoryName": "Head/Neuro",
       "name": "Neck pain"
     },
     {
       "id": 6,
       "categoryId": 3,
+      "categoryName": "Head/Neuro",
       "name": "Giddiness"
     },
     {
       "id": 7,
       "categoryId": 3,
+      "categoryName": "Head/Neuro",
       "name": "Other head/neuro symptoms"
     },
     {
       "id": 8,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Chest Pain or Tightness"
     },
     {
       "id": 9,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Breast"
     },
     {
       "id": 10,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Heartburn"
     },
     {
       "id": 11,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Shortness of breath"
     },
     {
       "id": 12,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Palpitations"
     },
     {
       "id": 13,
       "categoryId": 4,
+      "categoryName": "Chest",
       "name": "Cough"
     },
     {
       "id": 14,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Abdominal pain"
     },
     {
       "id": 15,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Nausea/vomiting"
     },
     {
       "id": 16,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Other abdominal/bowel symptoms"
     },
     {
       "id": 17,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Urinary/Bladder"
     },
     {
       "id": 18,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Incontinence of urine/bowel"
     },
     {
       "id": 19,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Male sex organs"
     },
     {
       "id": 20,
       "categoryId": 5,
+      "categoryName": "Abdomen/Pelvis/Genitalia",
       "name": "Female sex organs"
     },
     {
       "id": 21,
       "categoryId": 6,
+      "categoryName": "Eyes",
       "name": "Red/Painful Eye"
     },
     {
       "id": 22,
       "categoryId": 6,
+      "categoryName": "Eyes",
       "name": "Other Eye Symptoms"
     },
     {
       "id": 23,
       "categoryId": 7,
+      "categoryName": "Ears/Nose/Throat/Mouth",
       "name": "Ear/Nose/Throat/Mouth pain"
     },
     {
       "id": 24,
       "categoryId": 7,
+      "categoryName": "Ears/Nose/Throat/Mouth",
       "name": "Neck pain"
     },
     {
       "id": 25,
       "categoryId": 7,
+      "categoryName": "Ears/Nose/Throat/Mouth",
       "name": "Jaw pain"
     },
     {
       "id": 26,
       "categoryId": 7,
+      "categoryName": "Ears/Nose/Throat/Mouth",
       "name": "Other Ear/Nose/Throat"
     },
     {
       "id": 27,
       "categoryId": 8,
+      "categoryName": "Back & Limbs",
       "name": "Back"
     },
     {
       "id": 28,
       "categoryId": 8,
+      "categoryName": "Back & Limbs",
       "name": "Shoulder/Upper Arm Pain"
     },
     {
       "id": 29,
       "categoryId": 8,
+      "categoryName": "Back & Limbs",
       "name": "Limbs(other than shoulder/upper arm pain)"
     },
     {
       "id": 30,
       "categoryId": 8,
+      "categoryName": "Back & Limbs",
       "name": "Limb swelling"
     },
     {
       "id": 31,
       "categoryId": 9,
+      "categoryName": "Skin/Wounds/Injuries",
       "name": "Skin"
     },
     {
       "id": 32,
       "categoryId": 9,
+      "categoryName": "Skin/Wounds/Injuries",
       "name": "Trauma/Wounds/Bleeding"
     },
     {
       "id": 33,
       "categoryId": 10,
+      "categoryName": "Mental Health & Other Pain",
       "name": "Mental health"
     },
     {
       "id": 34,
       "categoryId": 10,
+      "categoryName": "Mental Health & Other Pain",
       "name": "Other pain"
     },
     {
       "id": 35,
       "categoryId": 11,
+      "categoryName": "Other general symptoms",
       "name": "Other miscellaneous"
     }
   ],

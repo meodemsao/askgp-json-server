@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+  json-server:
+    build:
+      context: .
+    ports:
+      - 3000
+    command: -H 0.0.0.0 -w db.json    
+    environment:
+      VIRTUAL_HOST: json-server.kqxs99.net
+      VIRTUAL_PORT: 3000
+      VIRTUAL_PATH: "/"
+      VIRTUAL_DEST: "/"
+      LETSENCRYPT_HOST: json-server.kqxs99.net
+      LETSENCRYPT_EMAIL: bangvu85@gmail.com
+    volumes:
+      - ./:/data
+    restart: always
+    networks:
+      - default
+
+networks:
+  default:
+    name: nginx_proxy
+    external: true

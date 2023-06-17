@@ -1,9 +1,5 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "name": "Recently Treated by a Dr"
-    },
+  "categories": [    
     {
       "id": 2,
       "name": "Fever or Feeling Unwell"
@@ -30,7 +26,7 @@
     },
     {
       "id": 8,
-      "name": "Back & Limbs"
+      "name": "Back and Limbs"
     },
     {
       "id": 9,
@@ -38,20 +34,14 @@
     },
     {
       "id": 10,
-      "name": "Mental Health & Other Pain"
+      "name": "Mental Health and Other Pain"
     },
     {
       "id": 11,
       "name": "Other general symptoms"
     }
   ],
-  "subCategories": [
-    {
-      "id": 1,
-      "categoryId": 1,
-      "categoryName": "Recently Treated by a Dr",
-      "name": "But not getting better, or worse after treatment"
-    },
+  "subCategories": [    
     {
       "id": 2,
       "categoryId": 2,
@@ -152,7 +142,7 @@
       "id": 18,
       "categoryId": 5,
       "categoryName": "Abdomen/Pelvis/Genitalia",
-      "name": "Incontinence of urine/bowel"
+      "name": "Incontinence (inability to control) urine/bowel"
     },
     {
       "id": 19,
@@ -205,25 +195,25 @@
     {
       "id": 27,
       "categoryId": 8,
-      "categoryName": "Back & Limbs",
+      "categoryName": "Back and Limbs",
       "name": "Back"
     },
     {
       "id": 28,
       "categoryId": 8,
-      "categoryName": "Back & Limbs",
+      "categoryName": "Back and Limbs",
       "name": "Shoulder/Upper Arm Pain"
     },
     {
       "id": 29,
       "categoryId": 8,
-      "categoryName": "Back & Limbs",
+      "categoryName": "Back and Limbs",
       "name": "Limbs(other than shoulder/upper arm pain)"
     },
     {
       "id": 30,
       "categoryId": 8,
-      "categoryName": "Back & Limbs",
+      "categoryName": "Back and Limbs",
       "name": "Limb swelling"
     },
     {
@@ -241,13 +231,13 @@
     {
       "id": 33,
       "categoryId": 10,
-      "categoryName": "Mental Health & Other Pain",
+      "categoryName": "Mental Health and Other Pain",
       "name": "Mental health"
     },
     {
       "id": 34,
       "categoryId": 10,
-      "categoryName": "Mental Health & Other Pain",
+      "categoryName": "Mental Health and Other Pain",
       "name": "Other pain"
     },
     {
@@ -257,15 +247,7 @@
       "name": "Other miscellaneous"
     }
   ],
-  "symptoms": [
-    {
-      "id": 1,
-      "subCategoryId": 1,
-      "subCategoryName": "But not getting better, or worse after treatment",
-      "symptom": "Unless you fulfil more urgent criteria below you should be seen",
-      "todoId": 4,
-      "todoMessage": "Within 2-3 days"
-    },
+  "symptoms": [    
     {
       "id": 2,
       "subCategoryId": 2,
@@ -742,7 +724,7 @@
       "id": 61,
       "subCategoryId": 5,
       "subCategoryName": "Neck pain",
-      "symptom": "Duration > 15 minutes",
+      "symptom": "Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -854,7 +836,7 @@
       "id": 75,
       "subCategoryId": 6,
       "subCategoryName": "Giddiness",
-      "symptom": "Persistent(Not relieved by rest of staying still)",
+      "symptom": "Persistent (Not relieved by rest OR staying still)",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
     },
@@ -934,7 +916,7 @@
       "id": 85,
       "subCategoryId": 7,
       "subCategoryName": "Other head/neuro symptoms",
-      "symptom": "Drowsiness",
+      "symptom": "Drowsiness (wakes only with difficulty and prolonged stimulation)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
     },
@@ -1046,7 +1028,7 @@
       "id": 99,
       "subCategoryId": 8,
       "subCategoryName": "Chest Pain or Tightness",
-      "symptom": "Chest pain or chest tightness - Duration > 15 minutes",
+      "symptom": "Chest pain or chest tightness - Continuous Pain or Tightness with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -1142,7 +1124,7 @@
       "id": 111,
       "subCategoryId": 9,
       "subCategoryName": "Breast",
-      "symptom": "Breast pain - Duration > 15 minutes",
+      "symptom": "Breast pain - Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -1254,7 +1236,7 @@
       "id": 125,
       "subCategoryId": 10,
       "subCategoryName": "Heartburn",
-      "symptom": "Heartburn - Duration > 15 minutes",
+      "symptom": "Heartburn - Continuous discomfort with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -1318,7 +1300,7 @@
       "id": 133,
       "subCategoryId": 11,
       "subCategoryName": "Shortness of breath",
-      "symptom": "Duration > 15 minutes",
+      "symptom": "Continuous Shortness of Breath with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -1590,7 +1572,7 @@
       "id": 167,
       "subCategoryId": 15,
       "subCategoryName": "Nausea/vomiting",
-      "symptom": "Coffee grounds vomitus",
+      "symptom": "Coffee grounds appearance in vomit",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
     },
@@ -1681,15 +1663,7 @@
       "symptom": "Abnormal stools - Diarrhea > 5 days",
       "todoId": 4,
       "todoMessage": "Within 2-3 days"
-    },
-    {
-      "id": 179,
-      "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms",
-      "symptom": "Abnormal stools - No stools > 5 days",
-      "todoId": 4,
-      "todoMessage": "Within 2-3 days"
-    },
+    },    
     {
       "id": 180,
       "subCategoryId": 16,
@@ -1734,7 +1708,7 @@
       "id": 185,
       "subCategoryId": 17,
       "subCategoryName": "Urinary/Bladder",
-      "symptom": "No urination > 12 hours",
+      "symptom": "No urine > 8 hours",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -1766,7 +1740,7 @@
       "id": 189,
       "subCategoryId": 17,
       "subCategoryName": "Urinary/Bladder",
-      "symptom": "Frequency of urination",
+      "symptom": "Needing to urine more often than usual",
       "todoId": 5,
       "todoMessage": "Likely simple Urine Tract Infection if without fever or abdominal/loin pain. Consider antibiotics & see Dr if not better after 2 days"
     },
@@ -1805,7 +1779,7 @@
     {
       "id": 194,
       "subCategoryId": 18,
-      "subCategoryName": "Incontinence of urine/bowel",
+      "subCategoryName": "Incontinence (inability to control) urine/bowel",
       "symptom": "New or sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1813,7 +1787,7 @@
     {
       "id": 195,
       "subCategoryId": 18,
-      "subCategoryName": "Incontinence of urine/bowel",
+      "subCategoryName": "Incontinence (inability to control) urine/bowel",
       "symptom": "Weakness in lower limbs",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1821,7 +1795,7 @@
     {
       "id": 196,
       "subCategoryId": 18,
-      "subCategoryName": "Incontinence of urine/bowel",
+      "subCategoryName": "Incontinence (inability to control) urine/bowel",
       "symptom": "Numbness in perineal/perianal region",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -1829,7 +1803,7 @@
     {
       "id": 197,
       "subCategoryId": 18,
-      "subCategoryName": "Incontinence of urine/bowel",
+      "subCategoryName": "Incontinence (inability to control) urine/bowel",
       "symptom": "Not new or sudden onset",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
@@ -2422,7 +2396,7 @@
       "id": 271,
       "subCategoryId": 24,
       "subCategoryName": "Neck pain",
-      "symptom": "Duration > 15 minutes",
+      "symptom": "Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -2542,7 +2516,7 @@
       "id": 286,
       "subCategoryId": 25,
       "subCategoryName": "Jaw pain",
-      "symptom": "Duration > 15 minutes",
+      "symptom": "Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -2798,7 +2772,7 @@
       "id": 318,
       "subCategoryId": 28,
       "subCategoryName": "Shoulder/Upper Arm Pain",
-      "symptom": "Duration > 15 minutes",
+      "symptom": "Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -3118,7 +3092,7 @@
       "id": 358,
       "subCategoryId": 31,
       "subCategoryName": "Skin",
-      "symptom": "Rash - Involving > 30% of body surface area",
+      "symptom": "Rash - Involving < 30% of body surface area",
       "todoId": 10,
       "todoMessage": "Wait up to 2 weeks"
     },
@@ -3199,8 +3173,8 @@
       "subCategoryId": 32,
       "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Bleeding from any part of the body that is in large amounts",
-      "todoId": 2,
-      "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
+      "todoId": 1,
+      "todoMessage": "Urgent-Call Emergency Ambulance"
     },
     {
       "id": 369,

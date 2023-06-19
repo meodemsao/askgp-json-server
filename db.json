@@ -6,7 +6,7 @@
     },
     {
       "id": 3,
-      "name": "Head/Neuro"
+      "name": "Head/Neck/Giddiness/Nerves"
     },
     {
       "id": 4,
@@ -26,7 +26,7 @@
     },
     {
       "id": 8,
-      "name": "Back and Limbs"
+      "name": "Back and Limbs (Includes Arms/Hands/Legs/Feet)"
     },
     {
       "id": 9,
@@ -57,25 +57,25 @@
     {
       "id": 4,
       "categoryId": 3,
-      "categoryName": "Head/Neuro",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Headache"
     },
     {
       "id": 5,
       "categoryId": 3,
-      "categoryName": "Head/Neuro",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Neck pain"
     },
     {
       "id": 6,
       "categoryId": 3,
-      "categoryName": "Head/Neuro",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Giddiness"
     },
     {
       "id": 7,
       "categoryId": 3,
-      "categoryName": "Head/Neuro",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Other head/neuro symptoms"
     },
     {
@@ -178,7 +178,7 @@
       "id": 24,
       "categoryId": 7,
       "categoryName": "Ears/Nose/Throat/Mouth",
-      "name": "Neck pain"
+      "name": "Neck ache"
     },
     {
       "id": 25,
@@ -195,25 +195,25 @@
     {
       "id": 27,
       "categoryId": 8,
-      "categoryName": "Back and Limbs",
+      "categoryName": "Back and Limbs (Includes Arms/Hands/Legs/Feet)",
       "name": "Back"
     },
     {
       "id": 28,
       "categoryId": 8,
-      "categoryName": "Back and Limbs",
+      "categoryName": "Back and Limbs (Includes Arms/Hands/Legs/Feet)",
       "name": "Shoulder/Upper Arm Pain"
     },
     {
       "id": 29,
       "categoryId": 8,
-      "categoryName": "Back and Limbs",
+      "categoryName": "Back and Limbs (Includes Arms/Hands/Legs/Feet)",
       "name": "Limbs(other than shoulder/upper arm pain)"
     },
     {
       "id": 30,
       "categoryId": 8,
-      "categoryName": "Back and Limbs",
+      "categoryName": "Back and Limbs (Includes Arms/Hands/Legs/Feet)",
       "name": "Limb swelling"
     },
     {
@@ -334,7 +334,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Duration > 3-5 days",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 13,
@@ -358,7 +358,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Difficulty passing urine",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 16,
@@ -366,7 +366,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Poor stream of urine",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 17,
@@ -374,7 +374,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal vaginal bleeding",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 18,
@@ -382,7 +382,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal vaginal discharge",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 19,
@@ -390,7 +390,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Abnormal penile discharge",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 20,
@@ -398,7 +398,7 @@
       "subCategoryName": "Fever/Unwell(>5yrs old)",
       "symptom": "Duration < 3 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 21,
@@ -574,7 +574,7 @@
       "subCategoryName": "Fever/Unwell(<5yrs old)",
       "symptom": "Duration < 3 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 43,
@@ -598,7 +598,7 @@
       "subCategoryName": "Headache",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 46,
@@ -670,7 +670,7 @@
       "subCategoryName": "Headache",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 55,
@@ -678,7 +678,7 @@
       "subCategoryName": "Headache",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 56,
@@ -686,7 +686,7 @@
       "subCategoryName": "Headache",
       "symptom": "Severity < 5/10 or not affecting ones usual activities",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 57,
@@ -790,7 +790,7 @@
       "subCategoryName": "Neck pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 70,
@@ -798,7 +798,7 @@
       "subCategoryName": "Neck pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 71,
@@ -806,7 +806,7 @@
       "subCategoryName": "Neck pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 72,
@@ -830,7 +830,7 @@
       "subCategoryName": "Giddiness",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 75,
@@ -886,7 +886,7 @@
       "subCategoryName": "Giddiness",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 82,
@@ -894,7 +894,7 @@
       "subCategoryName": "Giddiness",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 83,
@@ -902,7 +902,7 @@
       "subCategoryName": "Giddiness",
       "symptom": "Resolves within a short while on resting",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 84,
@@ -966,7 +966,7 @@
       "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Suspected seizure with no loss of consciousness",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 92,
@@ -974,7 +974,7 @@
       "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Stiff neck",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 93,
@@ -982,7 +982,7 @@
       "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Photophobia (sensitivity to light)",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 94,
@@ -990,7 +990,7 @@
       "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Tremors, shakes",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 95,
@@ -1078,7 +1078,7 @@
       "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 106,
@@ -1086,7 +1086,7 @@
       "subCategoryName": "Chest Pain or Tightness",
       "symptom": "Chest pain or chest tightness - Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 107,
@@ -1174,7 +1174,7 @@
       "subCategoryName": "Breast",
       "symptom": "Breast pain - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 118,
@@ -1182,7 +1182,7 @@
       "subCategoryName": "Breast",
       "symptom": "Breast pain - Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 119,
@@ -1190,7 +1190,7 @@
       "subCategoryName": "Breast",
       "symptom": "Breast lump in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 120,
@@ -1198,7 +1198,7 @@
       "subCategoryName": "Breast",
       "symptom": "Nipple discharge in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 121,
@@ -1286,7 +1286,7 @@
       "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 132,
@@ -1294,7 +1294,7 @@
       "subCategoryName": "Heartburn",
       "symptom": "Heartburn - Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 133,
@@ -1382,7 +1382,7 @@
       "subCategoryName": "Shortness of breath",
       "symptom": "Duration < 10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 144,
@@ -1390,7 +1390,7 @@
       "subCategoryName": "Shortness of breath",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 145,
@@ -1446,7 +1446,7 @@
       "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 100 to 120/minute",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 152,
@@ -1454,7 +1454,7 @@
       "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 50 to 60/minute",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 153,
@@ -1462,7 +1462,7 @@
       "subCategoryName": "Palpitations",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 154,
@@ -1470,7 +1470,7 @@
       "subCategoryName": "Palpitations",
       "symptom": "Heart rate between 60 to 100/minute",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 155,
@@ -1486,7 +1486,7 @@
       "subCategoryName": "Cough",
       "symptom": "Blood in sputum - small amounts",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 157,
@@ -1494,7 +1494,7 @@
       "subCategoryName": "Cough",
       "symptom": "Cough",
       "todoId": 7,
-      "todoMessage": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
+      "todoMessage": "You can wait up to 2 weeks to see your doctor - you may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
     },
     {
       "id": 158,
@@ -1542,7 +1542,7 @@
       "subCategoryName": "Abdominal pain",
       "symptom": "Duration < 30 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 164,
@@ -1550,7 +1550,7 @@
       "subCategoryName": "Abdominal pain",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 165,
@@ -1558,7 +1558,7 @@
       "subCategoryName": "Abdominal pain",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 166,
@@ -1566,7 +1566,7 @@
       "subCategoryName": "Abdominal pain",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 167,
@@ -1598,7 +1598,7 @@
       "subCategoryName": "Nausea/vomiting",
       "symptom": "Blood stains (small amounts)",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 171,
@@ -1606,7 +1606,7 @@
       "subCategoryName": "Nausea/vomiting",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 172,
@@ -1614,7 +1614,7 @@
       "subCategoryName": "Nausea/vomiting",
       "symptom": "Duration > 1 week",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 173,
@@ -1622,7 +1622,7 @@
       "subCategoryName": "Nausea/vomiting",
       "symptom": "Duration < 3-5 days & able to retain fluids, not dehydrated",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 174,
@@ -1630,7 +1630,7 @@
       "subCategoryName": "Nausea/vomiting",
       "symptom": "Nausea no vomiting",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 175,
@@ -1654,7 +1654,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Blood stains (small amounts)",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 178,
@@ -1662,7 +1662,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Diarrhea > 5 days",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },    
     {
       "id": 180,
@@ -1670,7 +1670,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Change from usual habits",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 181,
@@ -1678,7 +1678,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Mucus in stools",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 182,
@@ -1686,7 +1686,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "No stools > 5 days",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 183,
@@ -1694,7 +1694,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Bloating",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 184,
@@ -1702,7 +1702,7 @@
       "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abdominal distension in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 185,
@@ -1718,7 +1718,7 @@
       "subCategoryName": "Urinary/Bladder",
       "symptom": "Blood in urine",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 187,
@@ -1750,7 +1750,7 @@
       "subCategoryName": "Urinary/Bladder",
       "symptom": "Difficulty passing urine",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 191,
@@ -1758,7 +1758,7 @@
       "subCategoryName": "Urinary/Bladder",
       "symptom": "Poor stream of urine",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 192,
@@ -1766,7 +1766,7 @@
       "subCategoryName": "Urinary/Bladder",
       "symptom": "Getting up to pass urine at night",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 193,
@@ -1774,7 +1774,7 @@
       "subCategoryName": "Urinary/Bladder",
       "symptom": "Increased volume of urine",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 194,
@@ -1806,7 +1806,7 @@
       "subCategoryName": "Incontinence (inability to control) urine/bowel",
       "symptom": "Not new or sudden onset",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 198,
@@ -1854,7 +1854,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 204,
@@ -1862,7 +1862,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Severity < 5/10 or not affecting ones usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 205,
@@ -1870,7 +1870,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Testicular pain - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 206,
@@ -1878,7 +1878,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Testicular lump in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 207,
@@ -1886,7 +1886,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Groin lump in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 208,
@@ -1894,7 +1894,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Genital Ulcers",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 209,
@@ -1902,7 +1902,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Erectile dysfunction",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 210,
@@ -1910,7 +1910,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Loss of libido",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 211,
@@ -1918,7 +1918,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Premature ejaculation",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 212,
@@ -1926,7 +1926,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Blood in semen",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 213,
@@ -1934,7 +1934,7 @@
       "subCategoryName": "Male sex organs",
       "symptom": "Abnormal penile discharge",
       "todoId": 9,
-      "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor, abstain from sexual contact until your medical appointment"
     },
     {
       "id": 214,
@@ -1958,7 +1958,7 @@
       "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal bleeding - Small amounts",
       "todoId": 9,
-      "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor, abstain from sexual contact until your medical appointment"
     },
     {
       "id": 217,
@@ -1974,7 +1974,7 @@
       "subCategoryName": "Female sex organs",
       "symptom": "Abnormal vaginal discharge - No fever or pain",
       "todoId": 9,
-      "todoMessage": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor, abstain from sexual contact until your medical appointment"
     },
     {
       "id": 219,
@@ -1990,7 +1990,7 @@
       "subCategoryName": "Female sex organs",
       "symptom": "Genital Ulcers",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 221,
@@ -1998,7 +1998,7 @@
       "subCategoryName": "Female sex organs",
       "symptom": "Loss of libido",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 222,
@@ -2006,7 +2006,7 @@
       "subCategoryName": "Female sex organs",
       "symptom": "Pain on intercourse",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 223,
@@ -2046,7 +2046,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - One-sided only",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 228,
@@ -2054,7 +2054,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Duration > 1 week",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 229,
@@ -2062,7 +2062,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 230,
@@ -2070,7 +2070,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Red Eye - Both sides & Duration < 3-5 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 231,
@@ -2118,7 +2118,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 237,
@@ -2126,7 +2126,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - One-sided only",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 238,
@@ -2134,7 +2134,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Duration > 1 week",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 239,
@@ -2142,7 +2142,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 240,
@@ -2150,7 +2150,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Both sides & Duration < 3-5 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 241,
@@ -2158,7 +2158,7 @@
       "subCategoryName": "Red/Painful Eye",
       "symptom": "Eye pain - Both sides & Severity < 5/10 or not affecting ones usual activities",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 242,
@@ -2198,7 +2198,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Duration > 1 week",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 247,
@@ -2206,7 +2206,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 248,
@@ -2214,7 +2214,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eye discharge - Duration < 3-5 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 249,
@@ -2222,7 +2222,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - New or sudden onset",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 250,
@@ -2230,7 +2230,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 251,
@@ -2238,7 +2238,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Floaters or flashes in vision - Not new or sudden onset and not getting worse",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 252,
@@ -2246,7 +2246,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Change in visual acuity with no loss of vision",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 253,
@@ -2254,7 +2254,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Eyelid lumps or bumps only with no significant eye swelling",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 254,
@@ -2262,7 +2262,7 @@
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Jaundice (yellowing of eyes/skin)",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 255,
@@ -2278,7 +2278,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Severity>5/10 to 7/10 or severe enough to cause significant discomfort eating/drinking",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 257,
@@ -2286,7 +2286,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Duration > 1 week",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 258,
@@ -2294,7 +2294,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 259,
@@ -2302,7 +2302,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Nose/Throat/Mouth pain - Duration < 3-5 days",
       "todoId": 6,
-      "todoMessage": "Observe another 1-2 days and redo assessment if any changes"
+      "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 260,
@@ -2310,7 +2310,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 261,
@@ -2326,7 +2326,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 263,
@@ -2334,7 +2334,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 264,
@@ -2342,7 +2342,7 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear pain - Severity < 5/10 or not affecting ones usual activities",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 265,
@@ -2358,12 +2358,12 @@
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
       "symptom": "Ear discharge in the absence of pain or fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 267,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Radiating to jaw, neck or shoulder",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2371,7 +2371,7 @@
     {
       "id": 268,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2379,7 +2379,7 @@
     {
       "id": 269,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Crushing",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2387,7 +2387,7 @@
     {
       "id": 270,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Sudden onset",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2395,7 +2395,7 @@
     {
       "id": 271,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Continuous Pain with Duration > 15 minutes",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2403,7 +2403,7 @@
     {
       "id": 272,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Progressively getting worse",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2411,7 +2411,7 @@
     {
       "id": 273,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Not relieved by rest",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2419,7 +2419,7 @@
     {
       "id": 274,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Shortness of breath",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2427,7 +2427,7 @@
     {
       "id": 275,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Palpitations",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2435,7 +2435,7 @@
     {
       "id": 276,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Giddiness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -2443,7 +2443,7 @@
     {
       "id": 277,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Blood Pressure < 90/60",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -2451,7 +2451,7 @@
     {
       "id": 278,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Blood Pressure > 180/110",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2459,26 +2459,26 @@
     {
       "id": 279,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 280,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 281,
       "subCategoryId": 24,
-      "subCategoryName": "Neck pain",
+      "subCategoryName": "Neck ache",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 282,
@@ -2582,7 +2582,7 @@
       "subCategoryName": "Jaw pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 295,
@@ -2590,7 +2590,7 @@
       "subCategoryName": "Jaw pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 296,
@@ -2598,7 +2598,7 @@
       "subCategoryName": "Jaw pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 297,
@@ -2614,7 +2614,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 299,
@@ -2622,7 +2622,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Onset > months ago",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 300,
@@ -2630,7 +2630,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 301,
@@ -2638,7 +2638,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Onset > months ago",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 302,
@@ -2646,7 +2646,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Ear discharge in the absence of pain or fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 303,
@@ -2654,7 +2654,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Runny nose or blocked nose in the absence of pain or fever",
       "todoId": 7,
-      "todoMessage": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
+      "todoMessage": "You can wait up to 2 weeks to see your doctor - you may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
     },
     {
       "id": 304,
@@ -2662,7 +2662,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 305,
@@ -2670,7 +2670,7 @@
       "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Neck swelling or lump in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 306,
@@ -2710,7 +2710,7 @@
       "subCategoryName": "Back",
       "symptom": "Back pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 311,
@@ -2718,7 +2718,7 @@
       "subCategoryName": "Back",
       "symptom": "Back pain & progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 312,
@@ -2726,7 +2726,7 @@
       "subCategoryName": "Back",
       "symptom": "Back pain & severity <5/10 or not affecting ones usual activities",
       "todoId": 8,
-      "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
+      "todoMessage": "You can wait up to 2 weeks to see your doctor, you may consider physiotherapy in the meantime"
     },
     {
       "id": 313,
@@ -2838,7 +2838,7 @@
       "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Blood pressure > 160/100 to 180/110",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 327,
@@ -2846,7 +2846,7 @@
       "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Duration of <10-15 minutes that does not persist",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 328,
@@ -2854,7 +2854,7 @@
       "subCategoryName": "Shoulder/Upper Arm Pain",
       "symptom": "Resolves within a short while on resting",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 329,
@@ -2878,7 +2878,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 332,
@@ -2886,7 +2886,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Joint/Limb pain & severity <5/10 or not affecting ones usual activities",
       "todoId": 8,
-      "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
+      "todoMessage": "You can wait up to 2 weeks to see your doctor, you may consider physiotherapy in the meantime"
     },
     {
       "id": 333,
@@ -2934,7 +2934,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 339,
@@ -2942,7 +2942,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 340,
@@ -2950,7 +2950,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Weakness in lower limbs & not severe enough to affect usual activities",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 341,
@@ -2958,7 +2958,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Tremors, shakes",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 342,
@@ -2966,7 +2966,7 @@
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
       "symptom": "Numbness in limbs",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 343,
@@ -3030,7 +3030,7 @@
       "subCategoryName": "Limb swelling",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 351,
@@ -3038,7 +3038,7 @@
       "subCategoryName": "Limb swelling",
       "symptom": "Joint/Limb swelling in the absence of fever, pain or other symptoms",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 352,
@@ -3086,7 +3086,7 @@
       "subCategoryName": "Skin",
       "symptom": "Rash - Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 358,
@@ -3094,7 +3094,7 @@
       "subCategoryName": "Skin",
       "symptom": "Rash - Involving < 30% of body surface area",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 359,
@@ -3102,7 +3102,7 @@
       "subCategoryName": "Skin",
       "symptom": "Skin lump/swelling in the absence of pain",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 360,
@@ -3110,7 +3110,7 @@
       "subCategoryName": "Skin",
       "symptom": "Skin ulcer in the absence of infection, contamination or deep injury",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 361,
@@ -3118,7 +3118,7 @@
       "subCategoryName": "Skin",
       "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 362,
@@ -3126,7 +3126,7 @@
       "subCategoryName": "Skin",
       "symptom": "Skin pigmentation or discolouration",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 363,
@@ -3158,7 +3158,7 @@
       "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with possible infection e.g discharge/swelling/redness",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 367,
@@ -3166,7 +3166,7 @@
       "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Any open wound with slow healing e.g not better after 1-2 weeks",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 368,
@@ -3190,7 +3190,7 @@
       "subCategoryName": "Trauma/Wounds/Bleeding",
       "symptom": "Bruises on skin in the absence of other bleeding sources or other symptoms",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 371,
@@ -3214,7 +3214,7 @@
       "subCategoryName": "Mental health",
       "symptom": "Severe depression/anxiety",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 374,
@@ -3222,7 +3222,7 @@
       "subCategoryName": "Mental health",
       "symptom": "Hallucinations or delusions",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 375,
@@ -3230,7 +3230,7 @@
       "subCategoryName": "Mental health",
       "symptom": "Recent change in behaviour or personality",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 376,
@@ -3238,7 +3238,7 @@
       "subCategoryName": "Mental health",
       "symptom": "Mood problems not impairing usual activities or coping function",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 377,
@@ -3246,7 +3246,7 @@
       "subCategoryName": "Mental health",
       "symptom": "Poor sleep",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 378,
@@ -3270,7 +3270,7 @@
       "subCategoryName": "Other pain",
       "symptom": "Severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 381,
@@ -3278,7 +3278,7 @@
       "subCategoryName": "Other pain",
       "symptom": "Progressively getting worse",
       "todoId": 4,
-      "todoMessage": "Within 2-3 days"
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 382,
@@ -3286,7 +3286,7 @@
       "subCategoryName": "Other pain",
       "symptom": "Severity < 5/10 or not affecting ones usual activities",
       "todoId": 8,
-      "todoMessage": "Wait up to 2 weeks, can consider physiotherapy in the meantime"
+      "todoMessage": "You can wait up to 2 weeks to see your doctor, you may consider physiotherapy in the meantime"
     },
     {
       "id": 383,
@@ -3294,7 +3294,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Increase in appetite",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 384,
@@ -3302,7 +3302,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Increase in weight",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 385,
@@ -3310,7 +3310,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Loss of appetite",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 386,
@@ -3318,7 +3318,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Loss of weight",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 387,
@@ -3326,7 +3326,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Hot flushes in the absence of fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 388,
@@ -3334,7 +3334,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Sweating in the absence of fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 389,
@@ -3342,7 +3342,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Feeling hot in the absence of fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 390,
@@ -3350,7 +3350,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Feeling cold in the absence of fever",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 391,
@@ -3358,7 +3358,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Increased hair growth",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 392,
@@ -3366,7 +3366,7 @@
       "subCategoryName": "Other miscellaneous",
       "symptom": "Hair loss",
       "todoId": 10,
-      "todoMessage": "Wait up to 2 weeks"
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     }
   ],
   "todos": [
@@ -3387,7 +3387,7 @@
     },
     {
       "id": 4,
-      "message": "Within 2-3 days",
+      "message": "Please see your doctor within 2-3 days",
       "priority": 4
     },
     {
@@ -3397,27 +3397,27 @@
     },
     {
       "id": 6,
-      "message": "Observe another 1-2 days and redo assessment if any changes",
+      "message": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms",
       "priority": 5
     },
     {
       "id": 7,
-      "message": "Wait up to 2 weeks - may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm",
+      "message": "You can wait up to 2 weeks to see your doctor - you may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm",
       "priority": 6
     },
     {
       "id": 8,
-      "message": "Wait up to 2 weeks, can consider physiotherapy in the meantime",
+      "message": "You can wait up to 2 weeks to see your doctor, you may consider physiotherapy in the meantime",
       "priority": 6
     },
     {
       "id": 9,
-      "message": "Wait up to 2 weeks, abstain from sexual contact until your medical appointment",
+      "message": "You may wait up to 2 weeks to see your doctor, abstain from sexual contact until your medical appointment",
       "priority": 6
     },
     {
       "id": 10,
-      "message": "Wait up to 2 weeks",
+      "message": "You may wait up to 2 weeks to see your doctor",
       "priority": 6
     }
   ]

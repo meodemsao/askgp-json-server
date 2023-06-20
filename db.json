@@ -160,14 +160,20 @@
       "id": 21,
       "categoryId": 6,
       "categoryName": "Eyes",
-      "name": "Red/Painful Eye"
+      "name": "Red Eye"
+    },
+    {
+      "id": 36,
+      "categoryId": 6,
+      "categoryName": "Eyes",
+      "name": "Painful Eye"
     },
     {
       "id": 22,
       "categoryId": 6,
       "categoryName": "Eyes",
       "name": "Other Eye Symptoms"
-    },
+    },    
     {
       "id": 23,
       "categoryId": 7,
@@ -245,7 +251,7 @@
       "categoryId": 11,
       "categoryName": "Other general symptoms",
       "name": "Other miscellaneous"
-    }
+    }    
   ],
   "symptoms": [    
     {
@@ -2011,7 +2017,7 @@
     {
       "id": 223,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Contact Lens User",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2019,7 +2025,7 @@
     {
       "id": 224,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Headache",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2027,7 +2033,7 @@
     {
       "id": 225,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Nausea",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2035,7 +2041,7 @@
     {
       "id": 226,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Vomiting",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
@@ -2043,7 +2049,7 @@
     {
       "id": 227,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - One-sided only",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -2051,7 +2057,7 @@
     {
       "id": 228,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -2059,7 +2065,7 @@
     {
       "id": 229,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -2067,95 +2073,95 @@
     {
       "id": 230,
       "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryName": "Red Eye",
       "symptom": "Red Eye - Both sides & Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 231,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Contact Lens User",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 232,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Headache",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 233,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Nausea",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 234,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Vomiting",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 235,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - severity >8/10 or severe enough to prevent one from usual activities",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 236,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - severity >5/10 to 7/10 or severe enough to distract one from usual activities",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 237,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - One-sided only",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 238,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Duration > 1 week",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 239,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Progressively getting worse",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 240,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Both sides & Duration < 3-5 days",
       "todoId": 6,
       "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"
     },
     {
       "id": 241,
-      "subCategoryId": 21,
-      "subCategoryName": "Red/Painful Eye",
+      "subCategoryId": 36,
+      "subCategoryName": "Painful Eye",
       "symptom": "Eye pain - Both sides & Severity < 5/10 or not affecting ones usual activities",
       "todoId": 6,
       "todoMessage": "Observe 1-2 days and see your doctor if not improved. Please redo the triage assessment if any worsening of changes in your symptoms"

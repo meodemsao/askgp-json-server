@@ -1503,6 +1503,14 @@
       "todoMessage": "You can wait up to 2 weeks to see your doctor - you may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
     },
     {
+      "id": 393,
+      "subCategoryId": 13,
+      "subCategoryName": "Cough",
+      "symptom": "Cough with fever, pain or shortness of breath (please complete the fever, pain or shortness of breath categories)",
+      "todoId": 3,
+      "todoMessage": "Urgent-See a Doctor TODAY"
+    },
+    {
       "id": 158,
       "subCategoryId": 14,
       "subCategoryName": "Abdominal pain",
@@ -1722,7 +1730,7 @@
       "id": 186,
       "subCategoryId": 17,
       "subCategoryName": "Urinary/Bladder",
-      "symptom": "Blood in urine",
+      "symptom": "Blood in urine or darkening of urine",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
     },
@@ -2267,8 +2275,8 @@
       "subCategoryId": 22,
       "subCategoryName": "Other Eye Symptoms",
       "symptom": "Jaundice (yellowing of eyes/skin)",
-      "todoId": 10,
-      "todoMessage": "You may wait up to 2 weeks to see your doctor"
+      "todoId": 4,
+      "todoMessage": "Please see your doctor within 2-3 days"
     },
     {
       "id": 255,

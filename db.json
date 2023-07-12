@@ -6,7 +6,7 @@
     },
     {
       "id": 3,
-      "name": "Head/Neck/Giddiness/Stroke"
+      "name": "Head/Neck/Giddiness/Nerves"
     },
     {
       "id": 4,
@@ -57,26 +57,26 @@
     {
       "id": 4,
       "categoryId": 3,
-      "categoryName": "Head/Neck/Giddiness/Stroke",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Headache"
     },
     {
       "id": 5,
       "categoryId": 3,
-      "categoryName": "Head/Neck/Giddiness/Stroke",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Neck pain"
     },
     {
       "id": 6,
       "categoryId": 3,
-      "categoryName": "Head/Neck/Giddiness/Stroke",
+      "categoryName": "Head/Neck/Giddiness/Nerves",
       "name": "Giddiness"
     },
     {
       "id": 7,
       "categoryId": 3,
-      "categoryName": "Head/Neck/Giddiness/Stroke",
-      "name": "Possible Stroke/Other Symptoms"
+      "categoryName": "Head/Neck/Giddiness/Nerves",
+      "name": "Other head/neuro symptoms"
     },
     {
       "id": 8,
@@ -130,7 +130,7 @@
       "id": 16,
       "categoryId": 5,
       "categoryName": "Abdomen/Pelvis/Genitalia",
-      "name": "Other abdominal/bowel symptoms like stool problems/bloating"
+      "name": "Other abdominal/bowel symptoms"
     },
     {
       "id": 17,
@@ -196,7 +196,7 @@
       "id": 26,
       "categoryId": 7,
       "categoryName": "Ears/Nose/Throat/Mouth",
-      "name": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling"
+      "name": "Other Ear/Nose/Throat"
     },
     {
       "id": 27,
@@ -913,7 +913,7 @@
     {
       "id": 84,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Loss of Consciousness",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -921,7 +921,7 @@
     {
       "id": 85,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Drowsiness (wakes only with difficulty and prolonged stimulation)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -929,7 +929,7 @@
     {
       "id": 86,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Acute Confusion",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -937,7 +937,7 @@
     {
       "id": 87,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Seizure (suspected or confirmed)",
       "todoId": 1,
       "todoMessage": "Urgent-Call Emergency Ambulance"
@@ -945,7 +945,7 @@
     {
       "id": 88,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Slurring of speech",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -953,7 +953,7 @@
     {
       "id": 89,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Facial drooping",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -961,7 +961,7 @@
     {
       "id": 90,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "One-sided numbness or weakness",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -969,7 +969,7 @@
     {
       "id": 91,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Suspected seizure with no loss of consciousness",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -977,7 +977,7 @@
     {
       "id": 92,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Stiff neck",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -985,15 +985,15 @@
     {
       "id": 93,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Photophobia (sensitivity to light)",
-      "todoId": 3,
-      "todoMessage": "Urgent-See a Doctor TODAY"
+      "todoId": 10,
+      "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
       "id": 94,
       "subCategoryId": 7,
-      "subCategoryName": "Possible Stroke/Other Symptoms",
+      "subCategoryName": "Other head/neuro symptoms",
       "symptom": "Tremors, shakes",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -1649,7 +1649,7 @@
     {
       "id": 175,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Large amounts fresh red blood",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1657,7 +1657,7 @@
     {
       "id": 176,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Black tarry stools",
       "todoId": 2,
       "todoMessage": "Urgent-See a Doctor TODAY within 2-3 hours"
@@ -1665,7 +1665,7 @@
     {
       "id": 177,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Blood stains (small amounts)",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -1673,7 +1673,7 @@
     {
       "id": 178,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Diarrhea > 5 days",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -1681,7 +1681,7 @@
     {
       "id": 180,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Change from usual habits",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -1689,7 +1689,7 @@
     {
       "id": 181,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abnormal stools - Mucus in stools",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -1697,7 +1697,7 @@
     {
       "id": 182,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "No stools > 5 days",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -1705,7 +1705,7 @@
     {
       "id": 183,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Bloating",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -1713,7 +1713,7 @@
     {
       "id": 184,
       "subCategoryId": 16,
-      "subCategoryName": "Other abdominal/bowel symptoms like stool problems/bloating",
+      "subCategoryName": "Other abdominal/bowel symptoms",
       "symptom": "Abdominal distension in the absence of pain",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -2271,14 +2271,6 @@
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
     {
-      "id": 394,
-      "subCategoryId": 22,
-      "subCategoryName": "Other Eye Symptoms",
-      "symptom": "Photophobia (sensitivity to light)",
-      "todoId": 3,
-      "todoMessage": "Urgent-See a Doctor TODAY"
-    },
-    {
       "id": 254,
       "subCategoryId": 22,
       "subCategoryName": "Other Eye Symptoms",
@@ -2370,7 +2362,7 @@
       "id": 265,
       "subCategoryId": 23,
       "subCategoryName": "Ear/Nose/Throat/Mouth pain",
-      "symptom": "Significant ear, mouth or lip swelling",
+      "symptom": "Significant ear swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
@@ -2625,15 +2617,15 @@
     {
       "id": 297,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
-      "symptom": "Significant ear, mouth or lip swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
+      "symptom": "Significant ear swelling",
       "todoId": 3,
       "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 298,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -2641,7 +2633,7 @@
     {
       "id": 299,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Hearing loss - Onset > months ago",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -2649,7 +2641,7 @@
     {
       "id": 300,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Sudden or recent onset within 1-3 weeks",
       "todoId": 4,
       "todoMessage": "Please see your doctor within 2-3 days"
@@ -2657,7 +2649,7 @@
     {
       "id": 301,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Tinnitus or ringing/whooshing sounds in ear - Onset > months ago",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -2665,7 +2657,7 @@
     {
       "id": 302,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Ear discharge in the absence of pain or fever",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
@@ -2673,7 +2665,7 @@
     {
       "id": 303,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Runny nose or blocked nose in the absence of pain or fever",
       "todoId": 7,
       "todoMessage": "You can wait up to 2 weeks to see your doctor - you may consider backpocket antibiotics if not better after 10 days, esp with dark phlegm"
@@ -2681,34 +2673,18 @@
     {
       "id": 304,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Sensation of food getting stuck in throat or chest in the absence of pain",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
-    },    
+    },
     {
       "id": 305,
       "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
+      "subCategoryName": "Other Ear/Nose/Throat",
       "symptom": "Neck swelling or lump in the absence of pain",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
-    },
-    {
-      "id": 395,
-      "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
-      "symptom": "Mouth/Lip/Tongue Ulcers < 4-5 Ulcers",
-      "todoId": 10,
-      "todoMessage": "You may wait up to 2 weeks to see your doctor"
-    },
-    {
-      "id": 396,
-      "subCategoryId": 26,
-      "subCategoryName": "Other Ear/Nose/Throat e.g hearing problems, runny nose, swelling",
-      "symptom": "Mouth/Lip/Tongue Ulcers > 4-5 Ulcers",
-      "todoId": 3,
-      "todoMessage": "Urgent-See a Doctor TODAY"
     },
     {
       "id": 306,
@@ -3002,7 +2978,7 @@
       "id": 342,
       "subCategoryId": 29,
       "subCategoryName": "Limbs(other than shoulder/upper arm pain)",
-      "symptom": "Numbness in limbs - both sides (Not one-sided)",
+      "symptom": "Numbness in limbs",
       "todoId": 10,
       "todoMessage": "You may wait up to 2 weeks to see your doctor"
     },
